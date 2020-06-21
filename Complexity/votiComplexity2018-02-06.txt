@@ -1,0 +1,16 @@
+VOTI DI COMPLESSITA'   appello 06 Febbraio 2018
+
+matricola        voto
+VR403884         23
+VR399609         23
+VR407721         18
+VR395274         24
+VR414350         18
+VR412517         18
+VR409637         23
+VR380651         23
+VR369215         22
+VR404258         20
+VR408207         24
+VR369213         20
+VR414572         18

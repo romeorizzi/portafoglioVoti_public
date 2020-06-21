@@ -1,0 +1,43 @@
+Cari studenti che avete partecipato all'esame di Algoritmi 2017-07-31.
+
+Nell'esaminare i vostri elaborati ho riscontrato una grave e generalizzata situazione di plagi e scorrettezza. Questa situazione richiede di essere affrontata.
+
+Non e` nel mio stile ne` nelle mie intenzioni formulare qui alcun rimprovero.
+Se si e` determinata questa incresciosa situazione ci saranno colpe e mancanze anche da parte mia, in come ho o non ho saputo organizzare l'esame (in particolare, non ho saputo/potuto incidere su gravi debolezze nella sicurezza dell'account esame uniVR, non ho dato messaggi forti e tempestivi su appelli immediatamente precedenti, non ho esplicitato considerazioni e commenti su un codice etico implicato da un esame cosi` organizzato e cosi` diverso dagli altri), e magari anche la vostra preparazione allo stesso, o piu` semplicemente la vostra fiducia e motivazione all'affrontarlo in autonomia. Pertanto, il mio tono e` scevro da ogni predica o rimprovero. Ma vi consiglio di riflettere senza infingimenti ed agire di conseguenza.
+
+Anche ricorrere a sanzioni disciplinari non e` qui la mia prima opzione benche`, vi sia chiaro, per diversi di voi mi sarebbe davvero facile dimostrare la condotta scorretta al di la` di ogni ragionevole dubbio. Cio` tuttavia non mi saprebbe di vittoria, credo si possa evitare di arrivare a questo ottenendo di piu`. Confido possiate comprenderlo.
+
+Con la presente mi prefiggo piuttosto di condurvi a riflettere con serieta` sulla vostra condotta, sulle conseguenze nefaste, svilenti e nichiliste, che essa inevitabilmente finisce per avere e determinare.
+E devo smuovervi affinche` rivediate radicalmente la cattiva impostazione nella quale siete precipitati ma dalla quale, io credo, e` ancora possibile fuoriuscire a testa alta.
+
+Innanzitutto, mi scuso per il mio lungo silenzio. Mi avete messo in grossa difficolta` e, di fatto, vi sto` scrivendo che non ho ancora piena chiarezza su come la situazione vada ora affrontata. Tuttavia non c'e' piu` tempo per tergiversare oltre in analisi, quando a fine settembre ci attende il nuovo appello. Inoltre, a questo punto, la situazione richiede forse di essere affrontata insieme. Vi chiedo di contribuire, guardando all'interesse del corso che in bene od in male appartiene innanzitutto a voi.
+
+Partiamo da questo: mi dispiace soprattutto per quei pochi studenti che hanno camminato con le loro gambe ed il cui punteggio sbiadisce rispetto a quelli dei tanti che hanno barato. Nonostante i miei sforzi non mi e` facile porre rimedio a questo procedendo unilateralmente, senza la vostra collaborazione: la situazione e` cosi` confusa che e` davvero difficile comprendere quando certe copiature sono avvenute monodirezionalmente, e senza ruolo attivo speso da parte della sorgente, oppure bidirezionalmente o comunque con condiscendenza.
+Mi e` inaccettabile che degli studenti, dei compagni, che si sono (piu` o meno) impegnati e sono venuti a sostenere il loro esame con le loro gambe non possano essere pienamente e propriamente riconosciuti per il loro lavoro e senza pagare per la loro correttezza. Questo non e` giusto. E mi sminuisce nel mio ruolo.
+Per questo vi chiedo di collaborare.
+
+Chiedo a ciascuno di voi di scrivermi una mail che puo` impostare in vari modi:
+1. autodenuciare la propria condotta, e magari dare anche dettagli sui sistemi adottati per comunicare impropriamente e sui buchi nella sicurezza di cui a conoscenza. Fare presente ove copiato senza che vi sia stata collaborazione da parte di chi ha subito la copiatura;
+2. affermare che la propria prova e` stata sostenuta in piena autonomia, richiedendo quindi un'analisi individualizzata delle proprie sottomissioni in relazione alle altre, per ottenere un voto (eventualmente a valle di un colloquio di ulteriore verifica o chiarimento);
+3. comunicare al docente di buchi nella sicurezza di cui il mittente e` a conoscenza. Questo tipo di mail, come ogni altro input che possa servire a migliorare l'organizzazione del corso e delle infrastrutture, e` sempre ben venuto e non deve necessariamente venire da parte di studenti che hanno partecipato ad un particolare appello.
+
+Data la situazione da me riscontrata per l'appello 2017-07-31, spero che in molti di voi mi scrivano come in (1), mentre, ai pochissimi che mi scriveranno come in (2), spero di poter assegnare ottimi voti anche sotto i 200 punti. Tutto questo potrebbe aiutarci nel ridarci una giusta misura. Se chi avesse copiato una soluzione senza compiacenza da parte di colui che la aveva prodotta e` chiaro su questi aspetti nella sua autodenuncia, sa dirmi da chi ha copiato, e su come ha eventualmente ridistribuito la soluzione, questo mi potra` forse aiutare verso questo obiettivo di recuperare il lavoro degli studenti che hanno agito in modo corretto.
+
+A coloro che non possano dichiarare in onesta` di non avere copiato, e per i quali attendere l'appello di settembre comportasse conseguenze gravi nelle tempisitiche di corso di studi, chiedo di contattarmi per meglio comprendere insieme come opportuno risolvere la loro situazione. Sono sempre disponibile a venire incontro a studenti in difficolta`. Anche per questo barare trova scarsa giustificazione poiche` con semplice ed aperto confronto con me vi sara` sempre possibile trovare altre e piu` congrue vie al raggiungimento del mero 18. Chi bara e` per ottenere voti piu` alti, quando forse non gli competono, e sottraendo ad altri riconoscimenti meritati o comunque svalutandoli.
+
+Preferisco tenere per me i dati sulle mie ricostruzioni ed ipotesi di quanto accaduto in termini di flussi informativi e migrazioni di soluzioni da studente a studente, ma trovo opportuno e posso condividere con voi delle analisi di massima gia` molto significative; tali riscontri potranno aiutarvi a comprendere che la situazione non e` da prendere alla leggera ne` potete illudervi di imbrogliare impunemente:
+
+taglialegna:
+http://moss.stanford.edu/results/933074318
+
+seats:
+http://moss.stanford.edu/results/271446953
+
+matita:
+http://moss.stanford.edu/results/177834655
+
+
+Vi incoraggio anche a confrontarvi tra di voi e resto aperto al ricevere suggerimenti ed indicazioni sia individuali che collettive.
+
+
+Romeo

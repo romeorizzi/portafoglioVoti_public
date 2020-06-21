@@ -1,0 +1,10 @@
+VOTI DI COMPLESSITA'   appello 27 Febbraio 2019
+
+matricola        voto
+VR418112         24
+VR418513         23
+VR417470         23
+VR406832         23
+VR413632         21
+VR414626         21
+VR424301         18

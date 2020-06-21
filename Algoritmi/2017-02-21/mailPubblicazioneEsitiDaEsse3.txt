@@ -1,0 +1,26 @@
+Subject: esiti esame di algoritmi
+
+Gli esiti dell'esame di algoritmi sono stati pubblicati al solito sito, seguire il link "Portafoglio Dei Tuoi Voti" alla pagina del corso http://profs.sci.univr.it/~rrizzi/classes/Algoritmi/index.html
+
+Ho caricato i problemi dell'esame anche sul server algo per le esercitazioni, cosi' che puoi provare a sviluppare oltre le tue soluzioni.
+Puoi reperire quanto da te sottomesso al sistema esame UniVR per l'accreditamente delle credenziali GIA nel .zip file degli elaborati messo a disposizione nella cartella di questo appello.
+
+Chi intenda richiedere la registrazione del voto mi scriva una mail specificando:
+
+1. il suo numero di matricola;
+
+2. ultimo voto di complessita';
+
+3. a quale voto di algoritmi fare riferimento;
+
+4. eventuali punti bonus che debbano essere aggiunti al voto di algoritmi od a quello di compessita` prima di effettuare la media;
+
+5. voto che lo studente si attende di vedersi registrato.
+
+Chi deve ottenere la registrazione del voto in pochi giorni, per questioni di borse di studio od altro, mi scriva subito tale mail, mettendo in evidenza della sua urgenza, e specificando inoltre entro quando io debba registrare.
+
+
+Cari saluti,
+
+Romeo
+

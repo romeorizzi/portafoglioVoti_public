@@ -1,0 +1,20 @@
+# CMS
+.inode
+**/input
+**/output
+
+# backups
+*~
+*.bak
+
+# LaTex
+*.aux
+*.log
+
+# Byte-compiled / optimized / DLL files
+a.out
+__pycache__/
+*.py[cod]
+*$py.class
+
+

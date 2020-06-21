@@ -1,0 +1,9 @@
+VOTI DI COMPLESSITA' appello 22 luglio 2015
+
+matricola  voto
+VR387734     18
+VR387906     22
+VR388111     24
+VR383978     22
+VR383558     23
+

@@ -1,0 +1,53 @@
+VOTI DI ALGORITMI - appello del 28 settembre 2016
+(a questi voti va aggiunto eventuale bonus per progetti od altro)
+
+Username	hogwarts	minato-L	matita		totale		voto
+VR369213	0.0		0.0		80.0		80.0		18
+VR373713	0.0		0.0		0.0		0.0	
+VR382213	0.0		0.0		0.0		0.0	
+VR383978	0.0		0.0		85.0		85.0		18
+VR387955	0.0		0.0		0.0		0.0	
+VR389983	0.0		0.0		0.0		0.0	
+VR397505	0.0		0.0		100.0		100.0		20
+VR397670	100.0		0.0		100.0		200.0		28
+VR398351	0.0		0.0		0.0		0.0	
+VR399554	0.0		0.0		80.0		80.0		18
+VR399591	0.0		0.0		100.0		100.0		20
+VR399750	0.0		0.0		80.0		80.0		18
+VR399838	0.0		0.0		0.0		0.0	
+VR400386	0.0		0.0		0.0		0.0	
+VR401241	0.0		0.0		0.0		0.0	
+VR401809	0.0		0.0		75.0		75.0		17
+VR401981	0.0		0.0		100.0		100.0		20
+VR402957	0.0		0.0		80.0		80.0		18
+VR403074	0.0		0.0		75.0		75.0		17
+VR403221	0.0		0.0		100.0		100.0		20
+VR403884	0.0		0.0		100.0		100.0		20
+VR404101	0.0		0.0		100.0		100.0		20
+VR404258	0.0		0.0		80.0		80.0		18
+VR404713	0.0		0.0		0.0		0.0	
+VR404852	0.0		0.0		100.0		100.0		20
+
+MAP:
+
+Sotto i 50 punti nessun voto (non potete avvalervi di punti bonus)
+75-->17/30
+80-->18/30
+85-->18/30
+100-->20/30
+200-->28/30
+
+Note sui voti esame:
+1. Sotto i 50 punti non si e' maturato alcun voto (non potete avvalervi di punti bonus)
+2. Se sommati i punti bonus non viene comunque raggiunto il 18 devi necessariamente riprovare l'esame di parte Algoritmi
+3. Non puoi chiedere registrazione del voto finale (la media tra il voto di Algoritmi e quello di Complessità) senza avere raggiunto almeno 18 su ciascuno dei due moduli.
+
+Nota sui voti modulo Algoritmi:
+1. A questi voti va aggiunto eventuale bonus per progetti od altro.
+
+Note su registrazione voto finale Algoritmi e Complessità:
+1. Quando vorrai chiudere e concretizzare in voto il tuo percorso in Algoritmi e Complessità
+2. Trovi un possibile modello per la mail di richiesta registrazione voto al sito:
+    http://profs.sci.univr.it/~rrizzi/classes/Algoritmi/modExam/modExam.html
+
+   Consiglio di partire da questo modello di mail	 arrivateci insomma belli freschi come da vostre necessità ma non fraschi (non omettete i precisi rifermineti di contesto necessari al processare la vostra richiesta).

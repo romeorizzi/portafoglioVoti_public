@@ -1,0 +1,10 @@
+All'esame vi erano 3 problemi, che trovi nelle 3 sottocartelle omonime.
+Chi durante l'esame abbia sottoposto dei codici al portale esami di UniVR, li trova nello zip file con gli elaborati.
+Tutte le tue sottoposizioni sono state salvate entro tale file.
+Se lo decomprimi con:
+ unzip -o -u archvio-elaborati.zip
+otterrai la tua ultima sottoposizione effettuata per i vari problemi.
+Ma lavorandoci un po' potrai anche reperire una qualsiasi sottoposizione a tua scelta.
+Puoi testare la tua sottoposizione, o continuare a lavorarci e testare cosa ottieni, al CMS per le esercitazioni del corso di Algoritmi:
+ https://cms.di.unipi.it/algo/
+

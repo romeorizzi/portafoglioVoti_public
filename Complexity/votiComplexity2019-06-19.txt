@@ -1,0 +1,19 @@
+VOTI DI COMPLESSITA'   appello 19 Giugno 2019
+
+matricola        voto
+VR419955          24
+VR437058          22
+VR423929          20
+VR433534          27
+VR436780          29
+VR420558          24
+VR437055          26
+VR421455          18
+VR434292          22
+VR439370          25
+VR425420          26
+VR439325          18
+VR440462          18
+VR439620          26
+VR432225          24
+VR439254          18

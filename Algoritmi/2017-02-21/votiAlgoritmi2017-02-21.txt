@@ -1,0 +1,48 @@
+VOTI DI ALGORITMI - appello del 21 febbraio 2017
+(a questi voti va aggiunto eventuale bonus per progetti od altro)
+
+Username	User	socks	triangoloPoldo	partition	totale	voto
+VR389983	MUSONI PIETRO	0.0	0.0	0.0	0.0	
+VR398522	MIGLIO ALBERTO	100.0	60.0	40.0	200.0	28
+VR399554	QUARTAROLI DENIS	35.0	0.0	40.0	75.0	17
+VR399591	SARTORI ENRICO	100.0	60.0	40.0	200.0	28
+VR399609	BENINI ALBERTO	100.0	0.0	40.0	140.0	23
+VR399750	MARINELLI MARCO	0.0	25.0	0.0	25.0	
+VR399838	POTAPOV NIKITA	60.0	0.0	0.0	60.0	16
+VR401809	TADIELLO CARLO	100.0	0.0	40.0	140.0	23
+VR401951	BIONDI CLAUDIA	100.0	0.0	40.0	140.0	23
+VR402666	CACEFFO MATTIA	0.0	0.0	0.0	0.0	
+VR403074	OLIVIERI LUCA	35.0	0.0	0.0	35.0	
+VR403221	BIANCHI FEDERICO	100.0	0.0	40.0	140.0	23
+VR404101	SALETTI ALESSANDRO	0.0	0.0	0.0	0.0	
+VR404258	SAVIOZZI ANDREA	0.0	0.0	0.0	0.0	
+VR405372	FUSER ALESSANDRO	100.0	25.0	40.0	165.0	25
+
+
+MAP:
+
+Sotto i 50 punti nessun voto (non potete avvalervi di punti bonus)
+60-->15/30
+75-->17/30
+85-->18/30
+100-->20/30
+140-->23/30
+165-->25/30
+200-->28/30
+
+
+Note sui voti esame:
+1. Sotto i 50 punti non si e' maturato alcun voto (non potete avvalervi di punti bonus)
+2. Se sommati i punti bonus non viene comunque raggiunto il 18 devi necessariamente riprovare l'esame di parte Algoritmi
+3. Non puoi chiedere registrazione del voto finale (la media tra il voto di Algoritmi e quello di Complessità) senza avere raggiunto almeno 18 su ciascuno dei due moduli.
+
+Nota sui voti modulo Algoritmi:
+1. A questi voti va aggiunto eventuale bonus per progetti od altro.
+
+Note su registrazione voto finale Algoritmi e Complessità:
+1. Quando vorrai chiudere e concretizzare in voto il tuo percorso in Algoritmi e Complessità	 sarà tua cura farmi avere tutti i riferimenti a quanto nel tuo portafoglio voti nella mail che mi scriverai per richiedere la registrazione finale per Algoritmi e Complessità. Potresti ad esempio riferirti al presente file.
+
+2. Trovi un possibile modello per la mail di richiesta registrazione voto al sito:
+    http://profs.sci.univr.it/~rrizzi/classes/Algoritmi/modExam/modExam.html
+
+   Consiglio di partire da questo modello di mail	 ma poi fa piacere scriviate anche fuori dalle righe	 arrivateci insomma belli freschi come da vostre necessità ma non fraschi (non omettete i precisi rifermineti di contesto necessari al processare la vostra richiesta).

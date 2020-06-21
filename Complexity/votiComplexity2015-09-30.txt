@@ -1,0 +1,11 @@
+﻿VOTI DI COMPLESSITA'   appello 30 Settembre 2015
+
+matricola             voto
+VR387789                26
+VR386459                26
+VR386695                26
+VR379153                25
+VR386593                22
+VR387750                22	
+VR379679                20
+

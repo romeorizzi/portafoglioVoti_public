@@ -1,0 +1,127 @@
+Subject: esiti esame di algoritmi
+
+Gli esiti dell'esame di algoritmi sono stati pubblicati al solito sito, seguire il link "Portafoglio Dei Tuoi Voti" alla pagina del corso http://profs.sci.univr.it/~rrizzi/classes/Algoritmi/index.html
+
+Ho caricato i problemi dell'esame anche sul server algo per le esercitazioni, cosi' che puoi provare a sviluppare oltre le tue soluzioni.
+Puoi reperire quanto da te sottomesso al sistema esame UniVR per l'accreditamente delle credenziali GIA nel .zip file degli elaborati messo a disposizione nella cartella di questo appello.
+
+Chi intenda richiedere la registrazione del voto mi scriva una mail specificando:
+
+1. il suo numero di matricola;
+
+2. ultimo voto di complessita';
+
+3. a quale voto di algoritmi fare riferimento;
+
+4. eventuali punti bonus che debbano essere aggiunti al voto di algoritmi od a quello di compessita` prima di effettuare la media;
+
+5. voto che lo studente si attende di vedersi registrato.
+
+Chi deve ottenere la registrazione del voto in pochi giorni, per questioni di borse di studio od altro, mi scriva subito tale mail, mettendo in evidenza della sua urgenza, e specificando inoltre entro quando io debba registrare.
+
+
+Cari saluti,
+
+Romeo
+
+VOTI DI ALGORITMI - appello del 12 giugno 2017
+
+matricola	longwalk	fenwick1	convoglio	totale		voto		
+VR380651	0.0		100.0		100.0		200.0		30		
+VR383558	0.0		0.0		0.0		0.0		-		
+VR383601	0.0		0.0		0.0		0.0		-		
+VR387955	0.0		0.0		0.0		0.0		-		
+VR389983	0.0		0.0		0.0		0.0		-		
+VR390202	0.0		0.0		0.0		0.0		-		
+VR399140	0.0		0.0		0.0		0.0		-		
+VR399609	57.0		100.0		100.0		257.0		30L		
+VR399750	0.0		100.0		100.0		200.0		30		
+VR399838	0.0		0.0		0.0		0.0		-		
+VR400386	0.0		65.0		0.0		65.0		18		
+VR401241	0.0		0.0		21.0		21.0		-		
+VR401809	0.0		0.0		0.0		0.0		-		
+VR401981	0.0		0.0		0.0		0.0		-		
+VR403074	0.0		95.0		100.0		195.0		29		
+VR403221	57.0		100.0		100.0		257.0		30L		
+VR403761	0.0		0.0		0.0		0.0		-		
+VR403821	76.0		100.0		100.0		276.0		30L		
+VR404258	0.0		0.0		0.0		0.0		-		
+VR404397	0.0		0.0		0.0		0.0		-		
+VR406665	0.0		100.0		100.0		200.0		30		
+VR406704	0.0		100.0		100.0		200.0		30		
+VR406832	0.0		5.0		0.0		5.0		-		
+VR406840	0.0		0.0		0.0		0.0		-		
+VR406936	100.0		5.0		43.0		148.0		27		
+VR407117	0.0		5.0		100.0		105.0		23		
+VR407143	0.0		60.0		100.0		160.0		28		
+VR407230	0.0		0.0		0.0		0.0		-		
+VR407721	0.0		100.0		100.0		200.0		30		
+VR407794	57.0		100.0		100.0		257.0		30L		
+VR407832	0.0		0.0		0.0		0.0		-		
+VR407847	0.0		0.0		0.0		0.0		-		
+VR407856	10.0		100.0		100.0		210.0		30L		
+VR407906	0.0		0.0		100.0		100.0		22		
+VR407935	19.0		100.0		21.0		140.0		26		
+VR408207	0.0		0.0		0.0		0.0		-		
+VR408239	0.0		0.0		0.0		0.0		-		
+VR408256	0.0		0.0		100.0		100.0		22		
+VR409182	0.0		0.0		100.0		100.0		22		
+VR409577	10.0		95.0		100.0		205.0		30L		
+VR409578	10.0		100.0		100.0		210.0		30L		
+VR409987	62.0		100.0		100.0		262.0		30L		
+VR410075	0.0		0.0		0.0		0.0		-		
+VR410160	0.0		100.0		100.0		200.0		30		
+VR410588	0.0		100.0		100.0		200.0		30		
+VR410833	0.0		100.0		100.0		200.0		30		
+VR411577	0.0		0.0		21.0		21.0		-		
+VR412169	5.0		95.0		100.0		200.0		30		
+VR412443	0.0		0.0		0.0		0.0		-		
+VR412517	0.0		100.0		100.0		200.0		30		
+VR412613	57.0		100.0		100.0		257.0		30L		
+VR412875	0.0		100.0		100.0		200.0		30		
+VR412943	0.0		100.0		100.0		200.0		30		
+VR413225	0.0		0.0		0.0		0.0		-		
+VR413404	0.0		0.0		100.0		100.0		22		
+VR413467	0.0		0.0		0.0		0.0		-		
+VR413573	0.0		95.0		100.0		195.0		29		
+VR413607	0.0		100.0		100.0		200.0		30		
+VR413632	0.0		0.0		0.0		0.0				
+VR413731	0.0		95.0		100.0		195.0		29		
+VR413877	0.0		0.0		0.0		0.0		-		
+VR414189	0.0		0.0		100.0		100.0		22		
+VR414230	0.0		100.0		100.0		200.0		30		
+VR414350	0.0		100.0		100.0		200.0		30		
+VR414572	0.0		100.0		100.0		200.0		30		
+VR414626	0.0		0.0		0.0		0.0		-		
+
+
+MAP:
+
+Sotto i 50 punti nessun voto (non potete avvalervi nemmeno di eventuali punti bonus)
+
+ 65 --> 18/30
+100 --> 22/30
+105 --> 23/30
+140 --> 26/30
+148 --> 27/30
+160 --> 28/30
+195 --> 29
+200 --> 30/30
+200+--> 30L/30
+
+
+Note sui voti esame:
+1. Sotto i 50 punti, su questo appello non si e' maturato alcun voto (non potete avvalervi nemmeno di eventuali punti bonus)
+2. Se sommati i punti bonus non viene comunque raggiunto il 18 devi necessariamente riprovare l'esame di parte Algoritmi a meno che non abbiate gia` un voto positivo in caldo da precedenti appelli.
+3. Non puoi chiedere registrazione del voto finale (la media tra il voto di Algoritmi e quello di Complessita`) senza avere raggiunto almeno 18 su ciascuno dei due moduli.
+
+Nota sui voti modulo Algoritmi:
+1. Prima di fare la media col voto per Complessita`, a questi voti va aggiunto eventuale bonus per progetti od altro. Quest'anno i progetti chiedono la pacchettizzazione di problemi che sviluppino aree tematiche di vostro interesse, potrebbero inoltre vertere attorno al CMS di nuova generazione: TuringArena.
+
+Note su registrazione voto finale Algoritmi e Complessita`:
+1. Quando vorrai chiudere e concretizzare in voto il tuo percorso in Algoritmi e Complessita`, sara` tua cura farmi avere tutti i riferimenti a quanto nel tuo portafoglio voti nella mail che mi scriverai per richiedere la registrazione finale per Algoritmi e Complessita`. Potresti ad esempio riferirti al presente file.
+
+2. Trovi un possibile modello per la mail di richiesta registrazione voto al sito:
+    http://profs.sci.univr.it/~rrizzi/classes/Algoritmi/modExam/modExam.html
+
+   Consiglio di partire da questo modello di mail, ma poi fa piacere scriviate anche fuori dalle righe, arrivateci insomma belli freschi come da vostre necessita` ma non fraschi (non omettete i precisi rifermineti di contesto necessari al processare la vostra richiesta).

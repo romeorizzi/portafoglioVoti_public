@@ -1,0 +1,52 @@
+Subject: esiti appello di algoritmi 2019-06-25
+
+____________________
+Premessa: l'appello è andato male, ed è opportuno capire, anche insieme (segnalazioni/suggerimenti), cosa non abbia funzionato.
+Quest'anno abbiamo omesso la simulazione di esame a fine corso che vi avrebbe reso più consapevoli di come avviene l'esame, e delle spigolosità del CMS rispetto a TA. Questo è stato un mio errore. Essa era ancor più opportuna che negli anni precedenti dove ogni esercitazione era avvenuta entro CMS.
+Per superare queste difficoltà vi chiedo di esercitarvi con il CMS per simulare gli appelli coi vecchi temi di esame; esso non replica la complessità della situazione in aula all'esame ma consente di prendere atto di alcune difficoltà concrete che occorre affrontare. Java non è supportato. Se utilizzate python dovete tenere presente che il supporto è per python2. Sappiate che della pratica fa una grande differenza. Poi ci sono le difficoltà sul piano algoritmico: un algoritmo quadratico poco poteva col problema biancaneve, mentre is_shuffle_of nella sostanza richiedeva di vedere una programmazione dinamica. Entrambi gli esercizi avrebbero comunque concesso dei punti importanti anche senza questo livello di lettura, e quindi il primo consiglio è che innanzitutto vi attrezziate a poter affrontare l'esame sul piano tecnico e della mera programmazione, però l'ambizione dell'insegnamento resta quella di distinguere sul piano dell'efficienza delle soluzioni.
+
+Morale: Al prossimo appello assegnerò esercizi meno difficili e maggiori punti parziali nei subtask. Darò inoltre dei template che esemplifichino o realizzino per voi la gestione di input e output.  Voi venite però che le difficoltà nella programmazione non siano ciò che inficia la vostra performance. Esercitatevi con il CMS per simulare gli appelli coi vecchi temi di esame, e curate il vostro codice fino alla fine. Deve fare punti, e poi potete chiedervi se non poteva essere più semplice o dove vi conveniva concentrare i vostri sforzi. Se vogliamo che l'appello di luglio sia utile dobbiamo lavorare su entrambi i fronti. Il mio obiettivo ora è fare buon uso dell'appello di luglio e assicurare che quello di settembre possa essere analogo. Cercate di approfittarne venendo agli appelli che vi siete esercitati con altri problemi di cui avete curato ogni dettaglio della codifica e sottomissione. Avete abbondanza di materiali per poterlo fare (simulate gli appelli precedenti).
+___________________
+
+
+Gli esiti dell'esame di algoritmi sono stati pubblicati al solito sito, seguire il link "Portafoglio Dei Tuoi Voti" alla pagina del corso  http://profs.sci.univr.it/~rrizzi/classes/Algoritmi/index.html
+
+Oltre all'esito, nella cartella trovi un archivio .tgz con tutte le sottomissioni avvenute al cms esame, potrai così rivedere ogni tua sottomissione o curiosare come si sono organizzati i compagni che hanno saputo totalizzare più punti sui vari esercizi. (I timestamps nei nomi dei file sono rigidamente shiftati di un paio di ore come da UTC).
+
+Puoi testare autonomamente le tue soluzioni così reperite, o provare a svilupparle oltre, al server per la simulazione di esame:
+
+  https://rizzi.olinfo.it/algo-simula-prove
+
+Puoi visionare tutti i sorgenti di ogni pacchetto problema (testi, solutori, soluzioni di riferimento, correttori, generatori di istanze, ...) al repository pubblico coi problemi assegnati alle sessioni di esame:
+
+  https://bitbucket.org/romeorizzi/esami-algo/
+  
+
+
+Puoi reperire anche ogni file da te sottomesso durante l'esame al sistema esame UniVR per l'accreditamente delle credenziali GIA. Essi sono nel .zip file degli elaborati messo a disposizione nella cartella dell'appello.
+
+
+Ricordo che per il modulo di algoritmi il voto è il max dei voti acquisiti sugli appelli. Pertanto, partecipando a successivi appelli puoi solo incrementare il tuo voto per questo modulo. Come altro modo importante per migliorare il tuo voto puoi aiutarci realizzando problemi o percorsi entro TuringArena da rivolgere a tuoi compagni dei prossimi anni. Realizzando entro TuringArena problemi su dimostrazioni di NP-completezza od altri percorsi di area complessità, puoi migliorare anche il voto per il modulo di complessità. In ogni caso devi contattarmi per coordinare un percorso utile. Queste proposte sono valide anche come percorsi di stage o tesi, se reputi di essere in grado di contribuire utilmente al progetto (https://github.com/turingarena/
+e https://turingarena.readthedocs.io/en/develop/
+). Se hai visione, puoi venire anche con proposte tue su cose che si potrebbero fare per migliorare il corso e renderne più piacevole od utile la fruizione. 
+
+
+Chi intenda richiedere la registrazione del voto mi scriva una mail specificando:
+
+1. il suo numero di matricola;
+
+2. ultimo voto di complessità;
+
+3. a quale voto di algoritmi fare riferimento (regola del max);
+
+4. eventuali punti bonus che debbano essere aggiunti al voto di algoritmi od a quello di compessità prima di effettuare la media;
+
+5. voto che lo studente si attende di vedersi registrato.
+
+Chi deve ottenere la registrazione del voto in pochi giorni, per questioni di borse di studio od altro, mi scriva mettendo in evidenza della sua urgenza, e specificando inoltre entro quando io debba registrare.
+
+
+Cari saluti,
+
+Romeo
+

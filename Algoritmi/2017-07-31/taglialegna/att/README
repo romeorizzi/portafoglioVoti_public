@@ -1,0 +1,13 @@
+Ho dovuto alzare il tempo da 1.0 a 1.5 nel file task.yaml perche` altrimenti sulla VM esame non ottenevo mai 100 punti nemmeno con le migliori soluzioni lineari.
+Rispetto all'esercizio originale assegnato alle iOi ho inoltre rimodulato i punti.
+I punti originali erano:
+  subtask punti
+        1     5  -->  0
+        2     9  --> 11
+        3    20  --> 17
+        4    19  --> 17
+        5    22  --> 17
+        6    14  --> 17
+        7    11  --> 21
+Ho inoltre reso disponibili le coppie input/output 4,10,20,31,32,42,43,50,52 (oltre alle 0 ed 1, di esempio nel testo).
+Nota: internamente le istanze sono numerate partendo da 0 mentre nel cruscotto dei risultati la numerazione parte da 1.

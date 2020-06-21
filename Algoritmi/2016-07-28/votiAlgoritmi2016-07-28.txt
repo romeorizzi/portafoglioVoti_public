@@ -1,0 +1,85 @@
+VOTI DI ALGORITMI - appello del 28 luglio 2016
+(a questi voti va aggiunto eventuale bonus per progetti od altro)
+
+matricola	sweetsgame	topovi		vasi		totale	voto
+VR365989	0.0		0.0		0.0		0.0	0	
+VR369400	0.0		0.0		0.0		0.0	0	
+VR373713	0.0		0.0		60.0		60.0	18	
+VR374456	0.0		20.0		30.0		50.0	17	
+VR380278	100.0		100.0		100.0		300.0	33	
+VR382213	54.0		0.0		30.0		84.0	20	
+VR383370	100.0		0.0		30.0		130.0	25	
+VR383558	0.0		0.0		0.0		0.0	0	
+VR383667	0.0		0.0		0.0		0.0	0	
+VR383978	0.0		0.0		0.0		0.0	0	
+VR386217	0.0		0.0		0.0		0.0	0	
+VR389759	0.0		0.0		0.0		0.0	0	
+VR389925	53.0		0.0		30.0		83.0	20	
+VR389983	0.0		0.0		0.0		0.0	0	
+VR390202	64.0		0.0		30.0		94.0	21	
+VR391506	0.0		0.0		0.0		0.0	0	
+VR394409	0.0		0.0		0.0		0.0	0	
+VR397209	0.0		0.0		30.0		30.0	14	
+VR397444	0.0		100.0		100.0		200.0	31	
+VR397770	0.0		0.0		0.0		0.0	0	
+VR398313	48.0		100.0		100.0		248.0	32	
+VR398351	53.0		0.0		30.0		83.0	20	
+VR398522	55.0		0.0		60.0		115.0	23	
+VR399554	55.0		0.0		0.0		55.0	17	
+VR399750	0.0		0.0		0.0		0.0	0	
+VR399838	0.0		0.0		0.0		0.0	0	
+VR399891	53.0		100.0		30.0		183.0	30	
+VR400003	53.0		100.0		30.0		183.0	30	
+VR401241	0.0		0.0		0.0		0.0	0	
+VR401809	0.0		0.0		0.0		0.0	0	
+VR401950	53.0		100.0		100.0		253.0	32	
+VR401981	0.0		20.0		0.0		20.0	-	
+VR402091	0.0		0.0		0.0		0.0	0	
+VR403074	0.0		0.0		0.0		0.0	0	
+VR403280	84.0		100.0		100.0		284.0	33	
+VR403761	0.0		0.0		0.0		0.0	0	
+VR403884	0.0		0.0		0.0		0.0	0	
+VR403908	53.0		100.0		100.0		253.0	32	
+VR404101	0.0		0.0		0.0		0.0	0	
+VR404236	99.0		100.0		100.0		299.0	33	
+VR404258	0.0		0.0		0.0		0.0	0	
+VR404713	0.0		0.0		0.0		0.0	0	
+VR405372	0.0		0.0		0.0		0.0	0	
+
+
+
+MAP:
+
+Sotto i 30 punti nessun voto (non potete avvalervi di punti bonus)
+30-->14/30
+50-->17/30
+55-->17/30
+60-->18/30
+65-->18/30
+83-->20/30
+84-->20/30
+94-->21/30
+115-->23/30
+130-->25/30
+183-->30/30
+200-->31
+248-->32
+253-->32
+284-->33 = 30 e lode/30
+299-->33 = 30 e lode/30
+300-->33 = 30 e lode/30
+
+Note sui voti esame:
+1. Sotto i 30 punti non si e' maturato alcun voto (non potete avvalervi di punti bonus)
+2. Se sommati i punti bonus non viene comunque raggiunto il 18 devi necessariamente riprovare l'esame di parte Algoritmi
+3. Non puoi chiedere registrazione del voto finale (la media tra il voto di Algoritmi e quello di Complessità) senza avere raggiunto almeno 18 su ciascuno dei due moduli.
+
+Nota sui voti modulo Algoritmi:
+1. A questi voti va aggiunto eventuale bonus per progetti od altro.
+
+Note su registrazione voto finale Algoritmi e Complessità:
+1. Quando vorrai chiudere e concretizzare in voto il tuo percorso in Algoritmi e Complessità, sarà tua cura farmi avere tutti i riferimenti a quanto nel tuo portafoglio voti nella mail che mi scriverai per richiedere la registrazione finale per Algoritmi e Complessità. Potresti ad esempio riferirti al presente file.
+2. Trovi un possibile modello per la mail di richiesta registrazione voto al sito:
+    http://profs.sci.univr.it/~rrizzi/classes/Algoritmi/modExam/modExam.html
+
+   Consiglio di partire da questo modello di mail, ma poi fa piacere scriviate anche fuori dalle righe, arrivateci insomma belli freschi come da vostre necessità ma non fraschi (non omettete i precisi rifermineti di contesto necessari al processare la vostra richiesta).

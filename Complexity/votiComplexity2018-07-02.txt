@@ -1,0 +1,18 @@
+VOTI DI COMPLESSITA'   appello 02 Luglio 2018
+
+matricola        voto
+VR421196         25
+VR407230         26
+VR421197         22
+VR423614         28
+VR414572         18
+VR414230         21
+VR399140         21
+VR393905         26
+VR424867         22
+VR423791         24
+VR424649         24
+VR404101         22
+VR404852         23
+VR413877         24
+VR424707         18

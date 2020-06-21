@@ -1,0 +1,61 @@
+matricola,max1,max2,max3,sum_of_max,vote
+VR395274,100,0,0,100,18
+VR400386,70,50,0,120,22
+VR404258,0,0,0,0,
+VR406840,0,0,30,30,18
+VR407143,0,0,0,0,
+VR407230,100,0,0,100,18
+VR407837,0,0,0,0,
+VR411086,0,50,0,50,18
+VR411577,100,0,0,100,18
+VR412443,70,0,0,70,18
+VR413467,0,0,0,0,
+VR413632,100,90,0,190,28
+VR413877,100,0,0,100,18
+VR414189,100*,0,84,184,33
+VR417455,100,0,84*,184,30
+VR417470,100,50,0,150,24
+VR417714,0,0,27,27,18
+VR418112,0,0,0,0,
+VR418380,0,0,0,0,
+VR418467,0,0,70,70,18
+VR418645,0,0,0,0,
+VR419552,100,0,12,112,19
+VR419616,100,50,84,234,30
+VR419626,0,0,0,0,
+VR419702,70,0,22,92,18
+VR419703,0,20,0,20,18
+VR419955,0,100,27,127,23
+VR420117,70*,100,27,197,30
+VR420283,100,0,84*,184,30
+VR420558,0,0,0,0,
+VR420818,100,0,30,130,23
+VR421147,100,0,84,184,28
+VR421196,100,0,84*,184,30
+VR421197,100,0,0,100,18
+VR421889,100,100,84,284,33
+VR422016,0,0,0,0,
+VR422017,0,0,0,0,
+VR422410,30,0,84*,114,22
+VR423614,100,0,27,127,23
+VR423791,100,0,70,170,25
+VR424142,100,100,84,284,30
+VR424301,0,0,0,0,
+VR424707,100*,0,84*,184,33
+VR424867,70,100,13,183,27
+VR425018,100,100,84,284,30
+VR425207,70,0,0,70,18
+VR425437,100,0,84,184,28
+
+LEGENDA:
+max1 = problem pushed_rightwards: maximum (score during exam, score with re-evaluation with stronger correctors after the exam)
+max2 = problem tree_transcode: maximum (score during exam, score with re-evaluation with stronger correctors after the exam)
+max3 = problem pirelloneGFB: maximum (score during exam, score with re-evaluation with stronger correctors after the exam)
+
+
+ECCEZZIONI ALLA LEGGE DI MONOTONIA:
+
+Si è presentato il caso di sottoposizioni cui durante l'esame i correttori non assegnavano congruo punteggio. Abbiamo marcato con un asterisco quei casi in cui una soluzione corretta (anche solo parziale) non riceveva il giusto punteggio durante l'esame, ossia quei casi in cui il massimo è stato ottenuto solo nella rivalutazione a valle dell'esame, dove abbiamo impiegato dei correttori più robusti.
+In questi casi abbiamo reputato giusto alzare leggermente il voto per compensare il disorientaento indotto nello studente in corso d'esame.
+Questo ha comportato le sole eccezzioni alla regola di monotonia (secondo la quale il voto deve solo crescere al crescere dei punti).
+Cercheremo di non ripetere di tali eccezzioni in quanto reputiamo questa regola importante per darvi il senso di controllo durante l'esame, alla base della finzione dell'esame come gara a punti.

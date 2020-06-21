@@ -1,0 +1,56 @@
+VOTI DI ALGORITMI per l'appello 18 giugno 2015
+
+matricola esame  prog1 prog2      extra totale
+id456ixi      -      1     0      0          -
+VR365989      -      1     0      0          -
+VR367531     19      3     0      8=4+4     30 (progetto Rubik + cura di prog2 "Portali")
+VR369213      -      2     3      0          -
+VR369215      -      2     3      0          -
+VR369400     20      0     0      0         20
+VR370108     26      2     0      3+2       30+lode (curato e pacchettizzato dei problemi + prob.interattivi)
+VR372131     27      0     0      4         31 (progetto Rubik)
+VR373713      -      2     3      0          -
+VR373792     18      3     0      8=4+4     29 (progetto Rubik + cura di prog2 "Portali")
+VR374456      -      1     0      0          -
+VR376685     16      2     3      0         21
+VR376761      -      4     0      0          -
+VR379251     20      3     3      0         26
+VR379383      -      3     3      0          -
+VR379624      -      2     3      0          -
+VR379952     19      3     3      0         25
+VR380130     16      2     3      0         21
+VR380376      -      2     0      0          -
+VR380586     16      2     3      0         21
+VR382213      -      2     0      0          -
+VR383227     18      2     3      0         23
+VR383558      -      3     0      4          - (cura di prog2 "Portali")
+VR383601      -      3     0      4          - (cura di prog2 "Portali")
+VR383978      -      2     0      0          -
+VR386217     20      3     3      0         26
+VR386459      -      3     3      0          -
+VR386484     16      4     2      0         22
+VR386593     17      4     2      0         23
+VR386641     16      2     3      0         21
+VR386687     16      1     0      0          -
+VR386695     16      4     2      0         22
+VR386945      -      2     2      0          -
+VR387734      -      4     4      0          -
+VR387750     16      4     2      0         22
+VR387789      -      3     4      0          -
+VR387906      -      4     0      0          -
+VR387937     17      3     4      0         24
+VR387955      -      1     0      0          -
+VR388111      -      3     3      0          -
+VR388474     19      3     3      0         25
+VR389232     16      3     3      0         22
+VR389759      -      2     0      0          -
+VR389763      -      2     0      0          -
+VR389924      -      2     3      0          -
+VR389925      -      2     3      0          -
+VR389926      -      4     2      0          -
+VR391506      -      2     3      0          -
+VR391827     18      3     3      0         24
+VR391912     16      3     3      0         22
+VR393787     20      4     2      0         26
+VR393905      -      4     4      0          -
+

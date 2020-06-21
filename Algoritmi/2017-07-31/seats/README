@@ -1,0 +1,9 @@
+Rispetto all'esercizio originale assegnato alle OIS2017 ho solo rimodulato i punti.
+I punti originali erano:
+  subtask punti
+        1     5  -->  0
+        2    25  --> 10
+        3    40  --> 20
+        4    30  --> 70
+Ho inoltre reso disponibili le coppie input/output 2,7,10 (oltre alla 0, di esempio nel testo).
+Nota: internamente le istanze sono numerate partendo da 0 mentre nel cruscotto dei risultati la numerazione parte da 1.
