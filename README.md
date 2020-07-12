@@ -34,11 +34,11 @@ La mail verrà letta e gestita personalmente e fà sempre piacere scriviate anch
 
 ## ORGANIZZAZIONE DELLA REPO
 
-La sottocartella "Algoritmi" contiene una sottocartella per ogni singolo appello di Algoritmi, con i voti conseguiti in tale appello ed altri materiali che hanno concorso alla loro produzione.
+__La sottocartella "Algoritmi"__ contiene una sottocartella per ogni singolo appello di Algoritmi, con i voti conseguiti in tale appello ed altri materiali che hanno concorso alla loro produzione.
 Per ciascuno di questi voti viene inoltre riportato il conteggio dei punti che lo hanno prodotto (punti sui vari esercizi dell'appello + regola di mappatura da punti a voto). Ricordo che per la parte di Algoritmi fa fede il miglior voto conseguito sui vari appelli. I punti di bonus per progetti di servizio al corso od altro lavoro utile NON sono inclusi nel voto sopra in quanto non vengono consumati con l'appello, devi pertanto richiamerli quando richiedi la registrazione del voto finale.
 Nella mail con cui mi chiederai di verbalizzare il tuo voto farai esplicito riferimento all'appello in cui ha conseguito il tuo migliore voto, ed al suo valore.
 
-La sottocartella "Complexity" contiene una lista di files con i voti conseguiti in tale appello. Per ciascun appello abbiamo 2 file, quello in formato csv e quello in formato txt. Ricordo che per la parte di Complessità fa fede il voto conseguito all'ultimo appello sostenuto.
+__La sottocartella "Complexity"__ contiene una lista di files con i voti conseguiti in tale appello. Per ciascun appello abbiamo 2 file, quello in formato csv e quello in formato txt. Ricordo che per la parte di Complessità fa fede il voto conseguito all'ultimo appello sostenuto.
 Nella mail con cui mi chiederai di verbalizzare il tuo voto farai esplicito riferimento a tale appello ed al voto in esso conseguito.
 
 
