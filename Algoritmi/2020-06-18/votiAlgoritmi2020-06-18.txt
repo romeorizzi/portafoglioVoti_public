@@ -1,6 +1,5 @@
 VOTI DI ALGORITMI - appello del 18 Giugno 2020
 
-matricola,gioco_cifre,poldo_sums,bin_heap_fill,TOTALE,voto
 +-----------+-------------+------------+---------------+--------+-----------------------+
 | matricola | gioco_cifre | poldo_sums | bin_heap_fill | TOTALE |          voto         |
 +-----------+-------------+------------+---------------+--------+-----------------------+
