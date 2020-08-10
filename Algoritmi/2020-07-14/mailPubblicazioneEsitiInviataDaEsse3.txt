@@ -1,4 +1,4 @@
-Subject: esiti appello di algoritmi DATA_APPELLO
+Subject: esiti appello di algoritmi 2020-07-14
 
 Gli esiti dell'esame di algoritmi sono stati pubblicati al solito sito, seguire il link "Portafoglio Dei Tuoi Voti" alla pagina del corso  http://profs.sci.univr.it/~rrizzi/classes/Algoritmi/index.html
 
@@ -36,7 +36,7 @@ Chi intenda richiedere la registrazione del voto per l'intero insegnamento (Algo
 
 Chi deve ottenere la registrazione del voto in pochi giorni, per questioni di borse di studio od altro, mi scriva mettendo in evidenza della sua urgenza, e specificando inoltre entro quando io debba registrare.
 
-Non esitate a contattarmi per ogni necessità, avete i miei contacts. Per chi avesse bisogno di parlarmi di persona sono in dipartimento in Verona ancora domani venedì 6 e poi la settimana 16-20, poi in ottobre.
+Non esitate a contattarmi per ogni necessità, avete i miei contacts.
 
 
 Cari saluti,
@@ -54,4 +54,3 @@ Per coloro che cambiano ordinamento:
 
 1. un vecchio voto per la prova di Algoritmi resta valido come voto della nuova prova di laboratorio (che verte sia su Algoritmi che su Complessità)
 2. un vecchio voto per la prova di Complessità resta valido come voto della prova scritta (che verte sia su Algoritmi che su Complessità)
-

@@ -3,7 +3,7 @@ CONTENUTO DI QUESTA CARTELLA
 Oltre ai punteggi, ai voti, ed alla mappatura tra punteggi e voti, questa cartella rende disponibili tutti i materiali da voi a qualsiasi titolo sottomessi durante l'appello. Questi ti consentono di prendere le tue verifiche e/o completare la tua esperienza d'esame.
 
 Ogni singolo file sottomesso al CMS algo-prove durante questo appello, per riceverne valutazione utile e feedback immediato, è ora riportato nella cartella:
-all-CMS-submissions-DATA_APPELLO
+all-CMS-submissions-2020-07-14
 
 Puoi testare le tue soluzioni (come originariamente sottomesse all'esame, oppure più o meno riviste, o del tutto nuove) sottoponendole al CMS algo-simula-prove:
 
@@ -17,4 +17,5 @@ Se vuoi accedere ai vari sorgenti del pacchetto problema (soluzioni, testo, gene
  https://github.com/romeorizzi/esami-algo-public/
 Da terminale puoi scaricarti in locale l'intera repo col comando:
   git clone https://github.com/romeorizzi/esami-algo-public/
+
 
