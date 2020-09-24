@@ -9,14 +9,14 @@ ranking16.csv    - fotografia alle ore 16:00
 ranking-simula-prove.csv  - rivalutazione delle sottomissioni sul CMS simula prove
 ranking.csv - combinazione dei precedenti (tenuto il punteggio massimo su ciascun esercizio) ed infine utilizzato per formulare il voto
 
-NOTA: siamo aperti a proposte di lavoro, personali o per gruppi, con cui alzare il voto. Le proposte possono essere diverse e non per questo mutualmente esclusive.
+NOTA: siamo aperti a proposte di lavoro, personali o per gruppi, con cui alzare il voto. Le proposte possono essere diverse, venire anche da voi, e non per questo devono prefigurarsi come opportunità mutualmente esclusive.
 Una prima proposta:
    per ogni esercizio dove non avete fatto 100 durante l'esame (sul CMS algo-prove), se fate ora 100 sul CMS algo-simula-prove il vostro voto per questo appello si alza di uno. (Potete scambiarvi liberamente idee e anche lavorare in gruppi di max 2 persone.)
    Vi ho iscritti tutti al CMS algo-simula-prove con le stesse credenziali che avevate durante l'appello ed ho avuto cura di trasferire le vostre submissions (anche per ottenerne una valutazione indipendente). Potete quindi confrontarvi coi problemi sul CMS algo-simula-prove, e se totalizzate punteggio pieno segnalarmelo nel giro di due settimane affinchè io aggiorni il vostro voto per questo appello.
 Sono aperto ad ulteriori proposte di progetto che possano aiutare a integrare o migliorare qualsiasi aspetto del corso: i problemi, la piattaforma, i materiali, le procedure. Se servono idee, io stesso ho progetti interessanti da proporre validi anche per stage.
 
 
-Oltre all'esito, in "Portafoglio Dei Tuoi Voti" trovi un archivio .tgz con tutte le sottomissioni avvenute al cms esame, potrai così rivedere ogni tua sottomissione o curiosare come si sono organizzati i compagni che hanno saputo totalizzare più punti sui vari esercizi. (I timestamps nei nomi dei file sono rigidamente shiftati di un paio di ore come da UTC).
+Oltre all'esito, in "Portafoglio Dei Tuoi Voti" trovi un archivio .tgz con tutte le sottomissioni avvenute al CMS algo-prove durante l'esame, potrai così rivedere ogni tua sottomissione o curiosare come si sono organizzati i compagni che hanno saputo totalizzare più punti sui vari esercizi. (I timestamps nei nomi dei file sono rigidamente shiftati di un paio di ore come da UTC).
 
 Puoi testare autonomamente le tue soluzioni così reperite, o provare a svilupparle oltre, al server per la simulazione di esame:
 
@@ -26,7 +26,7 @@ Tra un paio di settimane rilascerò tutti i sorgenti di ogni pacchetto problema 
 
   https://github.com/romeorizzi/esami-algo-public/
 
-Chi volesse lavorare a migliorare generatori e verificatori di questo appello può chiedermi di condividere con lui questi materiali già ora.
+Chi volesse lavorare a migliorare generatori e verificatori di questo appello può chiedermi di condividere con lui questi materiali già ora (oppure lavorare a migliorare i problemi di appelli precedenti).
   
 Ricordo che per il modulo di algoritmi il voto è il max dei voti acquisiti sugli appelli. Pertanto, partecipando a successivi appelli puoi solo incrementare il tuo voto per questo modulo. Come altro modo importante per migliorare il tuo voto puoi aiutarci realizzando problemi o percorsi entro TuringArena da rivolgere a tuoi compagni dei prossimi anni. Realizzando entro TuringArena problemi su dimostrazioni di NP-completezza od altri percorsi di area complessità, puoi migliorare anche il voto per il modulo di complessità. In ogni caso devi contattarmi per coordinare un percorso utile. Queste proposte sono valide anche come percorsi di stage o tesi, se reputi di essere in grado di contribuire utilmente al progetto (https://github.com/turingarena/
 e https://turingarena.readthedocs.io/en/develop/
