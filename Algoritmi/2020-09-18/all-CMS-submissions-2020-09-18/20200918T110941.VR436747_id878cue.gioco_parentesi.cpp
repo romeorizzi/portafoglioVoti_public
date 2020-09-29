@@ -1,0 +1,67 @@
+/**
+* user:  VR436747_id878cue
+* fname: VLADISLAV
+* lname: BRAGOI
+* task:  gioco_parentesi
+* score: 5.0
+* date:  2020-09-18 11:09:41.211455
+*/
+#include <cassert>
+#include <iostream>
+#include <stdio.h>
+#include <cstdio>
+#include <stdlib.h>
+#include <cstdlib>
+#include <limits>
+#include <deque>
+#include <vector>
+using namespace std;
+
+int N;
+const int MAX_N = 1000000;
+
+char f[MAX_N];
+int giocate[MAX_N];
+
+// template <class T>
+// void print_array(T *v, int len) {
+//   for(int i = 0; i < len; i++)
+//     cout <<  v[i] << " ";
+//   cout << endl;
+// }
+
+int main() {
+    cin >> N;
+    if (N < 2 || N > MAX_N || N % 2 != 0) {
+        return 0;
+    }
+    
+    // fill_n(giocate, MAX_N, 0);
+    // print_array(giocate, 10);
+
+    int aperte = 0, chiuse = 0, num_giocate = 0;
+    int j = 0;
+
+    for (int i = 0; i < N; i++) {
+        cin >> f[i];
+        if (f[i] == '(') {
+            aperte++;
+        } else {
+            chiuse++;
+        } 
+
+        if (aperte == chiuse) {
+            aperte = chiuse = 0;
+            num_giocate++;
+        }
+    }
+
+    if (num_giocate % 2 != 0) {
+        cout << "1" << endl;
+        cout << "0" << " " << N-1 << endl; 
+    } else {
+        cout << "0" << endl;
+    }
+
+    return 0;
+}

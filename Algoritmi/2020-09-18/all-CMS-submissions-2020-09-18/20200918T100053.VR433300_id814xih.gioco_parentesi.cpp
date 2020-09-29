@@ -1,0 +1,56 @@
+/**
+* user:  VR433300_id814xih
+* fname: MASSIMILIANO
+* lname: INCUDINI
+* task:  gioco_parentesi
+* score: 5.0
+* date:  2020-09-18 10:00:53.142574
+*/
+#include <cassert>
+#include <iostream>
+#include <fstream>
+using namespace std;
+#define MAX_N 1000000
+
+char f[MAX_N];
+int actual_n;
+
+int main() {
+    
+    std::ifstream in("input.txt");
+    std::cin.rdbuf(in.rdbuf());
+
+    std::cin >> actual_n;
+    
+    for(int i = 0; i < actual_n; i++) {
+        std::cin >> f[i];
+    }
+
+    //std::cout << "Actual n: " << actual_n << std::endl;
+
+
+    int stack = 0;
+    int moves = 0;
+    int first = -1;
+    
+    for(int i = 0; i < actual_n; i++) {
+
+        // update stack
+        if(f[i]=='(') stack++; else stack--;
+
+        // update moves
+        if(stack == 0) moves++;
+        if(stack == 0 && first == -1) first = i;
+
+        //std::cout << "Stack: " << stack << " moves: " << moves << std::endl;
+    }
+
+    if(moves % 2 == 1) {
+        std::cout << "1" << endl;
+        std::cout << "0" << " " << first << endl; 
+    } else {
+        std::cout << "0" << endl;
+    }
+
+    return 0;
+}

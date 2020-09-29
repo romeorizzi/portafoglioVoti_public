@@ -12,19 +12,17 @@ Puoi visionare tutti i sorgenti di ogni pacchetto problema (testi, solutori, sol
 
   https://github.com/romeorizzi/esami-algo-public/
   
-Se è stato impiegato, puoi reperire anche ogni file da te sottomesso durante l'esame al sistema esame UniVR per l'accreditamente delle credenziali GIA. Essi sono nel .zip file degli elaborati messo a disposizione nella cartella dell'appello. Se non lo trovi significa che a questo appello non abbiamo attivato anche quel sistema.
-
-
 Ricordo che per il modulo di algoritmi il voto è il max dei voti acquisiti sugli appelli. Pertanto, partecipando a successivi appelli puoi solo incrementare il tuo voto per questo modulo. Come altro modo importante per migliorare il tuo voto puoi aiutarci realizzando problemi o percorsi entro TuringArena da rivolgere a tuoi compagni dei prossimi anni. Realizzando entro TuringArena problemi su dimostrazioni di NP-completezza od altri percorsi di area complessità, puoi migliorare anche il voto per il modulo di complessità. In ogni caso devi contattarmi per coordinare un percorso utile. Queste proposte sono valide anche come percorsi di stage o tesi, se reputi di essere in grado di contribuire utilmente al progetto (https://github.com/turingarena/
 e https://turingarena.readthedocs.io/en/develop/
 ). Se hai visione, puoi venire anche con proposte tue su cose che si potrebbero fare per migliorare il corso e renderne più piacevole od utile la fruizione. 
 
-Ricordo che quest'anno il voto acquisito durante la prova in laboratorio deve trovare una conferma all'orale (tranne che per chi abbia aderito alla sperimentazione mandandomi e registrando suo streaming su YouTube e facendomi avere il link).
-Il colloquio orale avverrà sulla stanza Zoom https://univr.zoom.us/j/3518684000
-ed è inteso esclusivamente a dare conferma che le competenze dimostrate nella prova di laboratorio sono state espresse dal candidato e volgerà poi in occasione per raccogliere feedback utile al corso.
-Prenditi lo slot che preferisci tra quelli ancora disponibili a https://calendly.com/romeo-rizzi
+Se il tuo voto termina con un * (esempi: 18*, 30L*) significa che è richiesto un colloquio orale per dare conferma al voto acquisito durante la prova in laboratorio, in caso contrario il tuo voto è spendibile da subito. Tale * viene rimosso a colloquio avvenuto, rendendo spendibile il voto. Il colloquio orale avverrà nella stanza Zoom https://univr.zoom.us/j/3518684000
+ed è inteso esclusivamente a dare conferma che le competenze dimostrate nella prova di laboratorio sono state espresse dal candidato.
+Finora il colloquio è stato richiesto solo in pochi casi, e mai a quegli studenti che hanno aderito alla sperimentazione mandando in streaming il loro esame a YouTube e facendomi avere il link ad esso.
+Se il tuo voto è corredato di tale *, prenditi lo slot che preferisci tra quelli ancora disponibili a https://calendly.com/romeo-rizzi
+o suggeriscimi dove utile io aggiunga ulteriori slot. 
 
-A valle dell'orale, chi intenda richiedere la registrazione del voto mi scriva una mail specificando:
+Chi intenda richiedere la registrazione del voto per l'intero insegnamento (Algoritmi+Complessità) mi scriva una mail specificando:
 
 1. il suo numero di matricola;
 
@@ -44,4 +42,16 @@ Non esitate a contattarmi per ogni necessità, avete i miei contacts. Per chi av
 Cari saluti,
 
 Romeo
+
+P.S. Il prossimo anno accademico prevede un cambio di ordinamento che interessa anche l'insegnamento di Algoritmi e Complessità. Ecco come intendiamo gestire il vostro portafoglioVoti nel transitorio:
+
+Per coloro che NON cambiano ordinamento:
+
+1. se devono sostenere ancora Complessità allora sostengono lo scritto del nuovo esame rispondendo solo alle domande di complessità e approssimazione
+2. se devono sostenere ancora Algoritmi allora sostengono la prova di laboratorio del nuovo esame risolvendo solo i quesiti di algoritmi
+
+Per coloro che cambiano ordinamento:
+
+1. un vecchio voto per la prova di Algoritmi resta valido come voto della nuova prova di laboratorio (che verte sia su Algoritmi che su Complessità)
+2. un vecchio voto per la prova di Complessità resta valido come voto della prova scritta (che verte sia su Algoritmi che su Complessità)
 

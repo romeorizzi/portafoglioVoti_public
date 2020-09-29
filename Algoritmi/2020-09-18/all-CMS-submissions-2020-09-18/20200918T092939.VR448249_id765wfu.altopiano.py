@@ -1,0 +1,43 @@
+"""
+* user:  VR448249_id765wfu
+* fname: ELIA
+* lname: PIACENTINI
+* task:  altopiano
+* score: 5.0
+* date:  2020-09-18 09:29:39.777238
+"""
+n_m = input('')
+n_m_splitted = n_m.split()
+n = int(n_m_splitted[0])
+m = int(n_m_splitted[1])
+
+str_height = input('')
+list_hight = str_height.split()
+
+list_int_height = [int(i) for i in list_hight]
+commands = []
+for i in range(0, m):
+    commands.append(input(''))
+
+for comm in commands:
+    splitted_comm = [int(i) for i in comm.split()]
+    if splitted_comm[0] == 2:
+        # to do: se non ho modificato altezze, stampa risultato vecchio
+        max_height = None
+        if splitted_comm[2] > splitted_comm[1] + 2:
+            exit = splitted_comm[2] - 2
+        else:
+            exit = splitted_comm[2] - 1
+        for i in range(splitted_comm[1], exit):
+            if max_height is None or list_int_height[i] > max_height: #altrimenti non guardo neanche
+                if list_int_height[i] == list_int_height[i + 1] == list_int_height[i + 2]:
+                    max_height = list_int_height[i]
+                # salto avanti
+                i += 2
+        if max_height is None:
+            print('NESSUN_ALTOPIANO')
+        else:
+            print(str(max_height))
+    else:
+        list_int_height[splitted_comm[1]] += splitted_comm[2]
+        #print(str(list_int_height))
