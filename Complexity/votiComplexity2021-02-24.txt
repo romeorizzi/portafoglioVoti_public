@@ -1,0 +1,11 @@
+VOTI DI COMPLESSITA'   appello 24 Febbraio 2021
+
+matricola        voto
+VR450538          27
+VR438055          23
+VR445231          18
+VR436747          23
+VR424616          21
+VR447268          22
+VR445234          18
+VR445693          21
