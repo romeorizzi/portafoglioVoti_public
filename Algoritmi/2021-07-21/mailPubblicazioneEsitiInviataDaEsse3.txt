@@ -1,0 +1,61 @@
+Subject: esiti appello di algoritmi 2021-07-21
+
+Gli esiti dell'esame di algoritmi sono stati pubblicati al solito sito, seguire il link "Portafoglio Dei Tuoi Voti" alla pagina del corso  http://profs.sci.univr.it/~rrizzi/classes/Algoritmi/index.html
+
+Oltre all'esito, nella cartella trovi un archivio .tgz con tutte le sottomissioni avvenute al cms esame, potrai così rivedere ogni tua sottomissione o curiosare come si sono organizzati i compagni che hanno saputo totalizzare più punti sui vari esercizi. (I timestamps nei nomi dei file sono rigidamente shiftati di un paio di ore come da UTC).
+
+Puoi testare autonomamente le tue soluzioni così reperite, o provare a svilupparle oltre, al server per la simulazione di esame:
+
+  https://rizzi.olinfo.it/algo-simula-prove
+
+Puoi visionare tutti i sorgenti di ogni pacchetto problema (testi, solutori, soluzioni di riferimento, correttori, generatori di istanze, ...) al repository pubblico coi problemi assegnati alle sessioni di esame:
+
+  https://github.com/romeorizzi/esami-algo-public/
+  
+Ricordo che per il modulo di algoritmi il voto è il max dei voti acquisiti sugli appelli. Pertanto, partecipando a successivi appelli puoi solo incrementare il tuo voto per questo modulo. Come altro modo importante per migliorare il tuo voto puoi aiutarci realizzando problemi o percorsi entro TuringArena da rivolgere a tuoi compagni dei prossimi anni. Realizzando entro TuringArena problemi su dimostrazioni di NP-completezza od altri percorsi di area complessità, puoi migliorare anche il voto per il modulo di complessità. In ogni caso devi contattarmi per coordinare un percorso utile. Queste proposte sono valide anche come percorsi di stage o tesi, se reputi di essere in grado di contribuire utilmente al progetto (https://github.com/turingarena/
+e https://turingarena.readthedocs.io/en/develop/
+). Se hai visione, puoi venire anche con proposte tue su cose che si potrebbero fare per migliorare il corso e renderne più piacevole od utile la fruizione. 
+
+Se il tuo voto termina con un * (esempi: 18*, 30L*) significa che è richiesto un colloquio orale per dare conferma al voto acquisito durante la prova in laboratorio, in caso contrario il tuo voto è spendibile da subito. Tale * viene rimosso a colloquio avvenuto, rendendo spendibile il voto. Il colloquio orale avverrà nella stanza Zoom https://univr.zoom.us/j/3518684000
+ed è inteso esclusivamente a dare conferma che le competenze dimostrate nella prova di laboratorio sono state espresse dal candidato.
+Finora il colloquio è stato richiesto solo in pochi casi, e mai a quegli studenti che hanno aderito alla sperimentazione mandando in streaming il loro esame a YouTube e facendomi avere il link ad esso.
+Se il tuo voto è corredato di tale *, prenditi lo slot che preferisci tra quelli ancora disponibili a https://calendly.com/romeo-rizzi
+o suggeriscimi dove utile io aggiunga ulteriori slot. 
+
+Talvolta, per "maturare" i 18 o ottenere un incremento sugli altri voti fisso delle condizioni che vi invitino a concludere il lavoro iniziato durante l'appello e a meglio ambientarvi nel sistema (realizzare un totale di almeno un certo tot di punti per gli esercizi dell'appello sul CMS algo-simula-prove). 
+
+Chi intenda richiedere la registrazione del voto per l'intero insegnamento (Algoritmi+Complessità) mi scriva una mail specificando:
+
+1. il suo numero di matricola;
+
+2. ultimo voto di complessità;
+
+3. a quale voto di algoritmi fare riferimento (regola del max) ma anche riferimento a quanto fatto per la loro maturazione (ove richiesto);
+
+4. eventuali punti bonus che debbano essere aggiunti al voto di algoritmi od a quello di compessità prima di effettuare la media;
+
+5. richiamo ad eventuale contributo in pogetti intesi a migliorare i materiali per il corso (realizzazione di problemi TALight o quant'altro)
+
+6. voto che lo studente si attende di vedersi registrato.
+
+Chi deve ottenere la registrazione del voto in pochi giorni, per questioni di borse di studio od altro, mi scriva mettendo in evidenza della sua urgenza, e specificando inoltre entro quando io debba registrare.
+
+Non esitate a contattarmi per ogni necessità, avete i miei contacts. Per chi avesse bisogno di parlarmi di persona sono in dipartimento in Verona ancora domani venedì 6 e poi la settimana 16-20, poi in ottobre.
+
+
+Cari saluti,
+
+Romeo
+
+P.S. Il presente anno accademico ha visto un cambio di ordinamento che interessa anche l'insegnamento di Algoritmi e Complessità. Se la tua iscrizione al corso risale ad anni precedenti, ecco come intendiamo gestire il vostro portafoglioVoti nel transitorio:
+
+Per coloro che NON cambiano ordinamento:
+
+1. se devono sostenere ancora Complessità allora sostengono lo scritto del nuovo esame rispondendo solo alle domande di complessità e approssimazione
+2. se devono sostenere ancora Algoritmi allora sostengono la prova di laboratorio del nuovo esame risolvendo solo i quesiti di algoritmi
+
+Per coloro che cambiano ordinamento:
+
+1. un vecchio voto per la prova di Algoritmi resta valido come voto della nuova prova di laboratorio (che verte sia su Algoritmi che su Complessità)
+2. un vecchio voto per la prova di Complessità resta valido come voto della prova scritta (che verte sia su Algoritmi che su Complessità)
+
