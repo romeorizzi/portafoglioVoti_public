@@ -1,0 +1,8 @@
+VOTI DI COMPLESSITA'   appello 22 Luglio 2021
+
+matricola        voto
+VR452400         21
+VR456749         25
+VR464472         20
+VR465317         20
+VR471275         25
