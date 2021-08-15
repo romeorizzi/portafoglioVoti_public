@@ -1,16 +1,29 @@
-0.0,niente voto di partenza ma come tutti gli altri puoi costituire un tuo voto contribuendo al corso con progetto in TALight
-10.0,18 sotto condizione
-80.0,24 oppure 25 sotto condizione
-82.0,24 oppure 25 sotto condizione
-110.0,27 oppure 28 sotto condizione
+BEGIN_MAPPA
+punti totali,voto
+0.0,nessun voto per questo appello
+10.0,[18 con poldo_game + hanoi_split >= 120]
+80.0,[24] [25 con poldo_game + hanoi_split >= 150]
+82.0,[24] [25 con poldo_game + hanoi_split >= 150]
+110.0,[27] [28 con poldo_game + hanoi_split >= 200]
+END_MAPPA
+
+
+OSSIA:
+
+  0.0 --> nessun voto per questo appello. Ti restano comunque validi i voti di appelli precedenti. Per generare ulteriori voti tra cui scegliere il migliore (regola del max) puoi sostenere un altro appello oppure contribuire con un tuo progetto utile al corso da concordare col docente
+ 10.0 --> 18 sotto condizione
+ 80.0 --> 24 oppure 25 sotto condizione
+ 82.0 --> 24 oppure 25 sotto condizione
+110.0 --> 27 oppure 28 sotto condizione
+
+DOVE:
+  specifica delle condizioni:
+    condizione per i 18: fare almeno 120 punti complessivi su questi due problemi sulla VM https://rizzi.olinfo.it/algo-simula-prove
+    condizione per i 25: fare almeno 150 punti complessivi su questi due problemi sulla VM https://rizzi.olinfo.it/algo-simula-prove
+    condizione per i 28: fare 200 punti complessivi su questi due problemi sulla VM https://rizzi.olinfo.it/algo-simula-prove
 
 NOTE:
-1. specifica delle condizioni:
-    condizione per i 18: fare almeno 120 punti su questi due problemi sulla VM https://rizzi.olinfo.it/algo-simula-prove
-    condizione per i 25: fare almeno 150 punti su questi due problemi sulla VM https://rizzi.olinfo.it/algo-simula-prove
-    condizione per i 28: fare 200 punti pieni su questi due problemi sulla VM https://rizzi.olinfo.it/algo-simula-prove
+1. per vostra praticità, dovrei aver ricopiato non solo le vostre credenziali come all'esame ma anche le vostre submissions dalla VM algo-prove alla VM algo-simula-prove.
 
-2. per vostra praticità, dovrei aver ricopiato non solo le vostre credenziali come all'esame ma anche le vostre submissions dalla VM algo-prove alla VM algo-simula-prove.
-
-3. questi voti (maturati o meno) rimangono garantiti entro il tuo portafoglio voti e possono essere solo migliorati in altri appelli (regola del max) oppure contribuendo al corso con progetto in TALight. 
+2. questi voti (maturati o meno) rimangono garantiti entro il tuo portafoglio voti e possono essere solo migliorati in altri appelli (regola del max) oppure contribuendo al corso con progetto (da concordare col docente sugli obiettivi, ma siamo aperti ad idee e spunti vostri su cose che potrebbero offrire servizi al corso, migliorando l'esperienza o risolvendo delle criticità che avete individuato). 
 

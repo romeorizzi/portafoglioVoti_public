@@ -1,13 +1,28 @@
-0.0,niente voto di partenza ma come tutti gli altri puoi costiture un tuo voto contribuendo al corso con progetto in TALight
-30.0,18 sotto condizione
-60.0,22 oppure 23 sotto condizione
-82.0,25 oppure 26 sotto condizione  
-202.0,30L
+BEGIN_MAPPA
+punti totali,voto
+0.0,nessun voto per questo appello
+30.0,[18 con hanoi_with_toddler + bridges_and_cutnodes >= 100]
+60.0,[22] [23 con hanoi_with_toddler + bridges_and_cutnodes >= 150]
+82.0,[25] [26 con hanoi_with_toddler + bridges_and_cutnodes >= 200]
+202.0,[30L]
+END_MAPPA
+
+OSSIA:
+
+  0.0 --> nessun voto per questo appello. Ti restano comunque validi i voti di appelli precedenti. Per generare ulteriori voti tra cui scegliere il migliore (regola del max) puoi sostenere un altro appello oppure contribuire con un tuo progetto utile al corso da concordare col docente.
+ 30.0 --> 18 sotto condizione
+ 60.0 --> 22 oppure 23 sotto condizione
+ 82.0 --> 25 oppure 26 sotto condizione
+202.0 --> 30 e lode
+
+DOVE:
+  specifica delle condizioni:
+    condizione per i 18: fare almeno 100 punti complessivi su questi due problemi sulla VM https://rizzi.olinfo.it/algo-simula-prove
+    condizione per i 23: fare almeno 150 punti complessivi su questi due problemi sulla VM https://rizzi.olinfo.it/algo-simula-prove
+    condizione per i 26: fare almeno 200 punti complessivi su questi due problemi sulla VM https://rizzi.olinfo.it/algo-simula-prove
 
 NOTE:
-1. specifica delle condizioni:
-    condizione per i 18: fare almeno 100 punti su questi due problemi sulla VM https://rizzi.olinfo.it/algo-simula-prove
-    condizione per i 23: fare almeno 150 punti su questi due problemi sulla VM https://rizzi.olinfo.it/algo-simula-prove
-    condizione per i 26: fare almeno 200 punti su questi due problemi sulla VM https://rizzi.olinfo.it/algo-simula-prove
+1. per vostra praticità, dovrei aver ricopiato non solo le vostre credenziali come all'esame ma anche le vostre submissions dalla VM algo-prove alla VM algo-simula-prove.
 
-2. Questi voti (maturati o meno) rimangono garantiti entro il tuo portafoglio voti e possono essere solo migliorati in altri appelli (regola del max) oppure contribuendo al corso con progetto in TALight. 
+2. questi voti (maturati o meno) rimangono garantiti entro il tuo portafoglio voti e possono essere solo migliorati in altri appelli (regola del max) oppure contribuendo al corso con progetto (da concordare col docente sugli obiettivi, ma siamo aperti ad idee e spunti vostri su cose che potrebbero offrire servizi al corso, migliorando l'esperienza o risolvendo delle criticità che avete individuato). 
+
