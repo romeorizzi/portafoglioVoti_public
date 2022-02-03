@@ -1,0 +1,70 @@
+VOTI DI ALGORITMI - appello del 2 Febbraio 2022
+
++-------------------+----------------+--------+------------------------------------------------------------------------------------------------------------------------------+
+|     matricola     | block_diag_mat | TOTALE |                                                             voto                                                             |
++-------------------+----------------+--------+------------------------------------------------------------------------------------------------------------------------------+
+| VR446688_id836pkn |      0.0       |  0.0   |                                                nessun voto per questo appello                                                |
+| VR447848_id277jjm |      0.0       |  0.0   |                                                nessun voto per questo appello                                                |
+| VR450855_id649cns |      31.0      |  31.0  |                             [21] [22 con block_diag_mat  >= 60] [23 con block_diag_mat  >= 100]                              |
+| VR451169_id909aos |      0.0       |  0.0   |                                                nessun voto per questo appello                                                |
+| VR456749_id932fnj |      11.0      |  11.0  | [18 con block_diag_mat  >= 20] [19 con block_diag_mat  >= 30] [20 con block_diag_mat  >= 60] [21 con block_diag_mat  >= 100] |
+| VR456970_id236bst |      0.0       |  0.0   |                                                nessun voto per questo appello                                                |
+| VR458382_id202rhp |      31.0      |  31.0  |                             [21] [22 con block_diag_mat  >= 60] [23 con block_diag_mat  >= 100]                              |
+| VR462541_id086uaa |      0.0       |  0.0   |                                                nessun voto per questo appello                                                |
++-------------------+----------------+--------+------------------------------------------------------------------------------------------------------------------------------+
+# Spiegazioni:
+
+## Interpretazione dei voti riportati in tabella: 
+
+Il voto riportato nel campo/colonna "voto" è in realtà una formula per il suo computo: vogliamo consentirvi di lavorare al miglioramento del vostro voto anche a valle dell'appello e quindi il valore del voto di appello è espresso in dipendenza da condizioni trasparenti.
+La formula è strutturata con parentesi quadre (esterne) e tonde (più interne).
+Dei voti prodotti dalle varie camere con condizione di applicabilità soddisfatta si prende il maggiore. Ove queste camere disgiuntive fossero una sola quell'unica coppia di parentesi quadre può essere omessa.
+Ciascuna camera comincia riportando un voto già valido e spendibile, ma ogni condizione rispettata tra quelle riportate tra le parentesi tonde a seguire (ove presenti) comporta il relativo incremento su tale voto. Per informazioni su come si possa provvedere al soddisfacimento delle condizioni che producono gli incrementi di voto si veda la sezione "Miglioramento specifico all'appello".
+
+## Come posso migliorare il mio voto
+
+I voti possono essere prodotti sia tramite partecipazione ad appelli che tramite la conduzione di progetti concordati volti alla produzione di materiali e strumenti utili al corso o ad un investigazione anche scientifica (i progetti potranno ampliarsi anche in stage e/o tesi). 
+I voti ottenuti agli appelli sono migliorabili sia con validità specifica all'appello che generale (miglioramenti che si applicano ai voti di tutti gli appelli, sia passati che futuri).
+
+### Miglioramento specifico all'appello:
+
+In questa cartella del portafoglioVoti trovate i codici da voi sottomessi durante l'esame e potete lavorarci ancora e sperimentarli sul contest algo-simula-prove dove di fatto ogni vostra sottomissione è stata già caricata e rimane a vostra disposizione. Questa vostra verifica/sperimentazione/partecipazione è cosa positiva per molte ragioni; è quindi un investimento che và riconosciuto e promosso.
+
+Trovate la VM algo-simula-prove allo URL:
+https://rizzi.olinfo.it/algo-simula-prove
+
+Supponiamo che ad un appello con 3 problemi che si chiamano prob1, prob2 e prob3 il vostro voto sia:
+
+[22 (+1 con prob1 >= 80) (+1 con prob2 >= 100)] [22 (+1 con prob1 >= 80) (+1 con prob3 >= 100)] [22 (+1 con prob2 >= 100) (+1 con prob3 >= 100)]
+
+allora:
+1. avete già un 22 in tasca per quell'appelo
+2. il voto di appello diventa un 23 se sulla VM algo-simula-prove ottenete almeno una delle seguenti 3 cose:
+   portare ad almeno 80 i punti per il problema prob1
+   portare ad almeno 100 i punti per il problema prob2
+   portare ad almeno 100 i punti per il problema prob3
+3. il voto di appello diventa un 24 se di queste 3 cose ne fate almeno 2. 
+
+Ma il voto base con cui si apre la camera può anche essere soggetto a condizione di applicabilità non-vuota:
+
+[22 con prob1 >= 50 AND prob1 + prob2 + prob3 >= 100 (+1 con prob1 >= 80) (+1 con prob2 >= 100)] [(22 (+1 con prob1 >= 80) (+1 con prob3 >= 100)] [(22 (+1 con prob2 >= 100) (+1 con prob3 >= 100)]
+
+
+Ricordo infine la regola del max sui voti degli appelli: i voti degli appelli del modulo di algoritmi (come presi a valle degli incrementi) non si cancellano mai ed al momento di registrare il voto si sceglie quello maggiore. Tale voto può essere ulterirmente aumentato se con vostri progetti (comunque concordati negli obiettivi) avete contribuito a migliorare il corso (tipicamente produzione di materiali o strumenti, ma sono aperto a vostre idee).
+
+### Miglioramento generale (opportunità aperta anche a chi di voi non ha raggiunto la sufficienza o nemmeno abbia partecipato ad appelli)
+
+Potreste trovare interessante prendere parte a progetti dove predisporre problemi e materiali per le prossime edizioni del corso (se non già per quella corrente).
+In particolare ho bisogno di aiuto sul seguente progetto:
+
+https://github.com/romeorizzi/TAlight
+
+Credo possa essere divertente oltre che istruttivo guardare le cose dalla parte di chi progetta e realizza dei problemi didattici con questo nostro nuovo strumento.
+
+In questo caso parlo di miglioramento generale perchè l'incremento di voto (che stabiliremo in funzione del progetto e contributo che si intende dare, sono aperto a vostre idee, non metto limiti alla vostra fantasia nel proporvi di aiutare) non si lega al singolo appello.
+
+
+## Come posso richiedere la registrazione di un voto
+
+Per ora con una mail dove specificate la vostra matricola ed il voto che vi attendete e la sua composizione dai dati degli appelli ricompresi in portafoglio-voti, ma, come progetto attualmente disponibile, realizziamo un bot Telegram da collocare sul canale del corso e che vi assista nel momento della richiesta di registrazione di voto ma anche di controllo del vostro portafoglioVoti.
+
