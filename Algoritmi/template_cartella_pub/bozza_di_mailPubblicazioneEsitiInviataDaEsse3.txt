@@ -45,15 +45,3 @@ Cari saluti,
 
 Romeo
 
-P.S. Il presente anno accademico ha visto un cambio di ordinamento che interessa anche l'insegnamento di Algoritmi e Complessità. Se la tua iscrizione al corso risale ad anni precedenti, ecco come intendiamo gestire il vostro portafoglioVoti nel transitorio:
-
-Per coloro che NON cambiano ordinamento:
-
-1. se devono sostenere ancora Complessità allora sostengono lo scritto del nuovo esame rispondendo solo alle domande di complessità e approssimazione
-2. se devono sostenere ancora Algoritmi allora sostengono la prova di laboratorio del nuovo esame risolvendo solo i quesiti di algoritmi
-
-Per coloro che cambiano ordinamento:
-
-1. un vecchio voto per la prova di Algoritmi resta valido come voto della nuova prova di laboratorio (che verte sia su Algoritmi che su Complessità)
-2. un vecchio voto per la prova di Complessità resta valido come voto della prova scritta (che verte sia su Algoritmi che su Complessità)
-
