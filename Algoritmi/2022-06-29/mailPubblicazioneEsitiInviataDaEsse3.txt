@@ -20,8 +20,6 @@ Finora il colloquio è stato richiesto solo in pochi casi, e mai a quegli studen
 Se il tuo voto è corredato di tale *, prenditi lo slot che preferisci tra quelli ancora disponibili a https://calendly.com/romeo-rizzi
 o suggeriscimi dove utile io aggiunga ulteriori slot. 
 
-Talvolta, per "maturare" i 18 o ottenere un incremento sugli altri voti fisso delle condizioni che vi invitino a concludere il lavoro iniziato durante l'appello e a meglio ambientarvi nel sistema (realizzare un totale di almeno un certo tot di punti per gli esercizi dell'appello sul CMS algo-simula-prove). 
-
 Chi intenda richiedere la registrazione del voto per l'intero insegnamento (Algoritmi+Complessità) mi scriva una mail specificando:
 
 1. il suo numero di matricola;
