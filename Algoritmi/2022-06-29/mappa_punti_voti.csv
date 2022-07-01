@@ -1,0 +1,28 @@
+BEGIN_MAPPA
+punti totali,voto
+0.0,nessun voto per questo appello
+13.0,nessun voto per questo appello
+23.0,18
+37.0,21
+48.0,23
+58.0,24
+62.0,25
+70.0,26
+81.0,27
+107.0,30
+114.0,30+lode
+117.0,30+lode
+END_MAPPA
+
+
+OSSIA:
+
+  0.0 --> nessun voto per questo appello. Ti restano comunque validi i voti di appelli precedenti (secondo la regola del max sugli appelli). Per maturare il voto che desideri puoi anche contribuire realizzando un tuo progetto utile al corso (da concordare col docente)
+ 13.0 --> nessun voto per questo appello. Ti restano comunque validi i voti di appelli precedenti (secondo la regola del max sugli appelli). Per maturare il voto che desideri puoi anche contribuire realizzando un tuo progetto utile al corso (da concordare col docente)
+
+NOTE:
+1. per vostra praticità, ho ricopiato le vostre credenziali come all'esame dalla VM algo-prove alla VM algo-simula-prove.
+
+2. questi voti (maturati o meno) rimangono garantiti entro il tuo portafoglio voti e possono essere solo migliorati in altri appelli (regola del max) oppure contribuendo al corso con progetto (da concordare col docente sugli obiettivi, ma siamo aperti ad idee e spunti vostri su cose che potrebbero offrire servizi al corso, migliorando l'esperienza o risolvendo delle criticità che avete individuato). 
+
+3. in questo primo appello ho preferito non prevedere la possibilità di aggiungere (pochi) punti al proprio voto con vostre sottomissioni a valle dell'esame sul CMS algo-simula-prove, dato che reputo importante pubblicare da subito i codici risolutori (credo importante voi possiate ispezionare da subito delle soluzioni di riferimento se non riuscite a fare punti con le vostre). Probabilmete all'appello di luglio eviterò di pubblicare le soluzioni e questa possibilità di aggiungere (pochi) punti a valle dell'esame continuando a lavorare sui problemi sarà disponibile. Per chi però voglia acquisire un buon voto e non riesca ad ottenerlo nella prova a tempo (in laboratorio delta), la strada è quella di contribuire sui progetti di servizio ai nostri corsi (c'è abbondanza di opportunità, e grande varietà sul tipo di competenze che potrebbero servire, da esprimere o approfondire).
