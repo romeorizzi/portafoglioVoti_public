@@ -1,0 +1,19 @@
+BEGIN_MAPPA
+punti totali,voto
+0.0,nessun voto per questo appello
+11.0,[18 con block_diag_mat  >= 20] [19 con block_diag_mat  >= 30] [20 con block_diag_mat  >= 60] [21 con block_diag_mat  >= 100]
+31.0,[21] [22 con block_diag_mat  >= 60] [23 con block_diag_mat  >= 100]
+END_MAPPA
+
+
+OSSIA:
+
+  0.0 --> nessun voto per questo appello. Ti restano comunque validi i voti di appelli precedenti (secondo la regola del max sugli appelli). Per maturare il voto che desideri puoi anche contribuire realizzando un tuo progetto utile al corso (da concordare col docente)
+ 11.0 --> 18 o 19 o 20 o 21 sotto le rispettive condizioni
+ 31.0 --> 21, oppure anche 22 o 23 sotto le rispettive condizioni
+
+NOTE:
+1. per vostra praticità, ho ricopiato le vostre credenziali come all'esame dalla VM algo-prove alla VM algo-simula-prove.
+
+2. questi voti (maturati o meno) rimangono garantiti entro il tuo portafoglio voti e possono essere solo migliorati in altri appelli (regola del max) oppure contribuendo al corso con progetto (da concordare col docente sugli obiettivi, ma siamo aperti ad idee e spunti vostri su cose che potrebbero offrire servizi al corso, migliorando l'esperienza o risolvendo delle criticità che avete individuato). 
+

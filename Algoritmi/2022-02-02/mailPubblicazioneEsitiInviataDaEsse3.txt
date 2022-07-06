@@ -1,4 +1,4 @@
-Subject: esiti appello di algoritmi DATA_APPELLO
+Subject: esiti appello di algoritmi 2022-02-02
 
 Gli esiti dell'esame di algoritmi sono stati pubblicati al solito sito, seguire il link "Portafoglio Dei Tuoi Voti" alla pagina del corso  http://profs.sci.univr.it/~rrizzi/classes/Algoritmi/index.html
 
@@ -12,7 +12,7 @@ Puoi visionare tutti i sorgenti di ogni pacchetto problema (testi, solutori, sol
 
   https://github.com/romeorizzi/esami-algo-public/
   
-Ricordo che per il modulo di algoritmi il voto è il max dei voti acquisiti sugli appelli. Pertanto, partecipando a successivi appelli puoi solo incrementare il tuo voto per questo modulo. Come altro modo importante per migliorare il tuo voto puoi aiutarci realizzando problemi o percorsi entro TAlight da rivolgere a tuoi compagni dei prossimi anni. Realizzando entro TAlight problemi su dimostrazioni di NP-completezza od altri percorsi di area complessità, puoi migliorare anche il voto per il modulo di complessità. In ogni caso devi contattarmi per coordinare un percorso utile. Queste proposte sono valide anche come percorsi di stage o tesi, se reputi di essere in grado di contribuire utilmente al progetto (https://github.com/romeorizzi/TALight con Wiki https://github.com/romeorizzi/TALight/wiki/EN_Home consigliamo quella in inglese) o ad altri progetti in corso. Se hai visione, puoi venire anche con proposte tue su cose che si potrebbero fare per migliorare il corso e renderne più piacevole od utile la fruizione.
+Ricordo che per il modulo di algoritmi il voto è il max dei voti acquisiti sugli appelli. Pertanto, partecipando a successivi appelli puoi solo incrementare il tuo voto per questo modulo. Come altro modo importante per migliorare il tuo voto puoi aiutarci realizzando problemi o percorsi entro TAlight da rivolgere a tuoi compagni dei prossimi anni. Realizzando entro TAlight problemi su dimostrazioni di NP-completezza od altri percorsi di area complessità, puoi migliorare anche il voto per il modulo di complessità. In ogni caso devi contattarmi per coordinare un percorso utile. Queste proposte sono valide anche come percorsi di stage o tesi, se reputi di essere in grado di contribuire utilmente al progetto (https://github.com/romeorizzi/TALight con Wiki https://github.com/romeorizzi/TALight/wiki/EN_Home consigliamo quella in inglese) o ad altri progetti in corso. Se hai visione, puoi venire anche con proposte tue su cose che si potrebbero fare per migliorare il corso e renderne più piacevole od utile la fruizione. 
 
 Se il tuo voto termina con un * (esempi: 18*, 30L*) significa che è richiesto un colloquio orale per dare conferma al voto acquisito durante la prova in laboratorio, in caso contrario il tuo voto è spendibile da subito. Tale * viene rimosso a colloquio avvenuto, rendendo spendibile il voto. Il colloquio orale avverrà nella stanza Zoom https://univr.zoom.us/j/3518684000
 ed è inteso esclusivamente a dare conferma che le competenze dimostrate nella prova di laboratorio sono state espresse dal candidato.
@@ -44,4 +44,16 @@ Non esitate a contattarmi per ogni necessità, avete i miei contacts. Per chi av
 Cari saluti,
 
 Romeo
+
+P.S. Il presente anno accademico ha visto un cambio di ordinamento che interessa anche l'insegnamento di Algoritmi e Complessità. Se la tua iscrizione al corso risale ad anni precedenti, ecco come intendiamo gestire il vostro portafoglioVoti nel transitorio:
+
+Per coloro che NON cambiano ordinamento:
+
+1. se devono sostenere ancora Complessità allora sostengono lo scritto del nuovo esame rispondendo solo alle domande di complessità e approssimazione
+2. se devono sostenere ancora Algoritmi allora sostengono la prova di laboratorio del nuovo esame risolvendo solo i quesiti di algoritmi
+
+Per coloro che cambiano ordinamento:
+
+1. un vecchio voto per la prova di Algoritmi resta valido come voto della nuova prova di laboratorio (che verte sia su Algoritmi che su Complessità)
+2. un vecchio voto per la prova di Complessità resta valido come voto della prova scritta (che verte sia su Algoritmi che su Complessità)
 

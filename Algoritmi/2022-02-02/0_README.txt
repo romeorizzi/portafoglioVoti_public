@@ -2,9 +2,9 @@ CONTENUTO DI QUESTA CARTELLA
 
 - i punteggi conseguiti sugli esercizi dell'appello (punteggi.csv).
 - la mappatura tra punteggi e voti (mappa_punti_voti.csv).
-- i voti (votiAlgoritmiDATA_APPELLO.csv e votiAlgoritmiDATA_APPELLO.txt).
-- il folder all-CMS-submissions-DATA_APPELLO contenente tutte le vostre sottomissioni durante l'appello. Si fà presente che le vostre sottomissioni sono state altresì importate sul CMS algo-simula-prove, se accedete ad esso con le stesse credenziali che all'esame. NOTA: questo è il modo corretto di accedervi se la vostra finalità è ottemperare alle condizioni per la maturazione di un voto.
-- tutti i materiali da voi eventualmente sottomessi al sistema esami_univr, ove attivo per questo appello (vostre_sottomissioni_a_esami_univr-DATA_APPELLO.zip)
+- i voti (votiAlgoritmi20yy-mm-dd.csv e votiAlgoritmi20yy-mm-dd.txt).
+- il folder all-CMS-submissions-20yy-mm-dd contenente tutte le vostre sottomissioni durante l'appello. Si fà presente che le vostre sottomissioni sono state altresì importate sul CMS algo-simula-prove, se accedete ad esso con le stesse credenziali che all'esame. NOTA: questo è il modo corretto di accedervi se la vostra finalità è ottemperare alle condizioni per la maturazione di un voto.
+- tutti i materiali da voi eventualmente sottomessi al sistema esami_univr, ove attivo per questo appello (vostre_sottomissioni_a_esami_univr-20yy-mm-dd.zip)
 
 Questi materiali ti consentono di prendere le tue verifiche e/o completare la tua esperienza d'esame.
 
