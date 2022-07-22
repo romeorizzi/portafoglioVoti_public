@@ -1,29 +1,29 @@
 VOTI DI ALGORITMI - appello del 21 Luglio 2021
 
-+-------------------+----------+-----------+----------------------+-------+------------------------------------------------+
-|     matricola     |poldo_game|hanoi_split|incr_subseq_with_drops| TOTALE|                    voto                        |
-+-------------------+----------+-----------+----------------------+-------+------------------------------------------------+
-| VR439215_id718vyg |   10.0   |    0.0    |       0.0            |  10.0 |  [18 con poldo_game + hanoi_split >= 120]      |
-| VR439637_id088960 |   0.0    |    0.0    |       0.0            |  0.0  |         nessun voto per questo appello         |
-| VR439870_id132bxn |   0.0    |    0.0    |       0.0            |  0.0  |         nessun voto per questo appello         |
-| VR445303_id795xfv |   0.0    |    0.0    |       0.0            |  0.0  |         nessun voto per questo appello         |
-| VR445458_id143leb |   0.0    |    0.0    |       0.0            |  0.0  |         nessun voto per questo appello         |
-| VR446688_id836pkn |   0.0    |    0.0    |       0.0            |  0.0  |         nessun voto per questo appello         |
-| VR447848_id277jjm |   0.0    |    0.0    |       0.0            |  0.0  |         nessun voto per questo appello         |
-| VR450538_id965iel |   0.0    |    82.0   |       0.0            |  82.0 |  [24] [25 con poldo_game + hanoi_split >= 150] |
-| VR450864_id939fgd |   10.0   |   100.0   |       0.0            | 110.0 |  [27] [28 con poldo_game + hanoi_split >= 200] |
-| VR452311_id060khp |   0.0    |    0.0    |       0.0            |  0.0  |         nessun voto per questo appello         |
-| VR457915_id668iuy |   80.0   |    0.0    |       0.0            |  80.0 |  [24] [25 con poldo_game + hanoi_split >= 150] |
-| VR458470_id680cdp |   10.0   |    0.0    |       0.0            |  10.0 |  [18 con poldo_game + hanoi_split >= 120]      |
-| VR458629_id594rik |   0.0    |    82.0   |       0.0            |  82.0 |  [24] [25 con poldo_game + hanoi_split >= 150] |
-| VR461066_id352mfu |   0.0    |    0.0    |       0.0            |  0.0  |         nessun voto per questo appello         |
-| VR461133_id497dvq |   80.0   |    0.0    |       0.0            |  80.0 |  [24] [25 con poldo_game + hanoi_split >= 150] |
-| VR462541_id086uaa |   0.0    |    0.0    |       0.0            |  0.0  |         nessun voto per questo appello         |
-| VR463652_id646onp |   0.0    |    0.0    |       0.0            |  0.0  |         nessun voto per questo appello         |
-| VR464472_id344led |   0.0    |    0.0    |       0.0            |  0.0  |         nessun voto per questo appello         |
-| VR464574_id364gis |   0.0    |    82.0   |       0.0            |  82.0 |  [24] [25 con poldo_game + hanoi_split >= 150] |
-| VR466426_id186pbr |   10.0   |    0.0    |       0.0            |  10.0 |  [18 con poldo_game + hanoi_split >= 120]      |
-+-------------------+----------+-----------+----------------------+-------+------------------------------------------------+
++-------------------+----------+-----------+-------+------------------------------------------------+
+|     matricola     |poldo_game|hanoi_split| TOTALE|                    voto                        |
++-------------------+----------+-----------+-------+------------------------------------------------+
+| VR439215_id718vyg |   10.0   |    0.0    |  10.0 |  [18 con poldo_game + hanoi_split >= 120]      |
+| VR439637_id088960 |   0.0    |    0.0    |  0.0  |         nessun voto per questo appello         |
+| VR439870_id132bxn |   0.0    |    0.0    |  0.0  |         nessun voto per questo appello         |
+| VR445303_id795xfv |   0.0    |    0.0    |  0.0  |         nessun voto per questo appello         |
+| VR445458_id143leb |   0.0    |    0.0    |  0.0  |         nessun voto per questo appello         |
+| VR446688_id836pkn |   0.0    |    0.0    |  0.0  |         nessun voto per questo appello         |
+| VR447848_id277jjm |   0.0    |    0.0    |  0.0  |         nessun voto per questo appello         |
+| VR450538_id965iel |   0.0    |    82.0   |  82.0 |  [24] [25 con poldo_game + hanoi_split >= 150] |
+| VR450864_id939fgd |   10.0   |   100.0   | 110.0 |  [27] [28 con poldo_game + hanoi_split >= 200] |
+| VR452311_id060khp |   0.0    |    0.0    |  0.0  |         nessun voto per questo appello         |
+| VR457915_id668iuy |   80.0   |    0.0    |  80.0 |  [24] [25 con poldo_game + hanoi_split >= 150] |
+| VR458470_id680cdp |   10.0   |    0.0    |  10.0 |  [18 con poldo_game + hanoi_split >= 120]      |
+| VR458629_id594rik |   0.0    |    82.0   |  82.0 |  [24] [25 con poldo_game + hanoi_split >= 150] |
+| VR461066_id352mfu |   0.0    |    0.0    |  0.0  |         nessun voto per questo appello         |
+| VR461133_id497dvq |   80.0   |    0.0    |  80.0 |  [24] [25 con poldo_game + hanoi_split >= 150] |
+| VR462541_id086uaa |   0.0    |    0.0    |  0.0  |         nessun voto per questo appello         |
+| VR463652_id646onp |   0.0    |    0.0    |  0.0  |         nessun voto per questo appello         |
+| VR464472_id344led |   0.0    |    0.0    |  0.0  |         nessun voto per questo appello         |
+| VR464574_id364gis |   0.0    |    82.0   |  82.0 |  [24] [25 con poldo_game + hanoi_split >= 150] |
+| VR466426_id186pbr |   10.0   |    0.0    |  10.0 |  [18 con poldo_game + hanoi_split >= 120]      |
++-------------------+----------+-----------+-------+------------------------------------------------+
 
 # Spiegazioni:
 
