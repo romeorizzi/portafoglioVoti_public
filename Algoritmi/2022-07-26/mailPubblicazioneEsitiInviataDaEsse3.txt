@@ -9,8 +9,8 @@ Puoi testare autonomamente le tue soluzioni così reperite, o provare a sviluppa
   https://rizzi.olinfo.it/algo-simula-prove
 
 cui potrai accedere con le credenziali:
-    username=id??????
-    pwd=VR??????
+    username=vr??????
+    pwd=vr??????
 
 Inoltre, se ti rimane arcano come approcciare un problema o come affrontare la scrittura del codice, o se comunque vuoi saperne di più, puoi visionare tutti i sorgenti di ogni pacchetto problema (testi, solutori, soluzioni di riferimento, correttori, generatori di istanze, ...) al repository pubblico coi problemi assegnati alle sessioni di esame:
 
