@@ -8,9 +8,11 @@ Puoi testare autonomamente le tue soluzioni così reperite, o provare a sviluppa
 
   https://rizzi.olinfo.it/algo-simula-prove
 
-cui potrai accedere con username=pwd=vr?????? (ossia la tua matricola con 'vr' in minuscolo).
+cui potrai accedere con le credenziali:
+    username=id??????
+    pwd=VR??????
 
-Inoltre, se ti rimane arcano come approcciare un problema o come affrontare la scrittura del codice, o se comunque vuoi conoscere di più, puoi visionare tutti i sorgenti di ogni pacchetto problema (testi, solutori, soluzioni di riferimento, correttori, generatori di istanze, ...) al repository pubblico coi problemi assegnati alle sessioni di esame:
+Inoltre, se ti rimane arcano come approcciare un problema o come affrontare la scrittura del codice, o se comunque vuoi saperne di più, puoi visionare tutti i sorgenti di ogni pacchetto problema (testi, solutori, soluzioni di riferimento, correttori, generatori di istanze, ...) al repository pubblico coi problemi assegnati alle sessioni di esame:
 
   https://github.com/romeorizzi/esami-algo-public/
   
@@ -35,7 +37,7 @@ Chi intenda richiedere la registrazione del voto per l'intero insegnamento (Algo
 
 5. richiamo ad eventuale contributo in pogetti intesi a migliorare i materiali per il corso (realizzazione di problemi TALight o quant'altro)
 
-6. voto che lo studente si attende di vedersi registrato.
+6. voto che lo studente si attende di vedersi registrato (media, arrotondata per eccesso, tra i voti di algoritmi e complessità, dove 30L=33 e per ottenere 30L come voto finale serve almeno un 30L ed entrambi >= 30).
 
 Chi deve ottenere la registrazione del voto in pochi giorni, per questioni di borse di studio od altro, mi scriva mettendo in evidenza della sua urgenza, e specificando inoltre entro quando io debba registrare.
 

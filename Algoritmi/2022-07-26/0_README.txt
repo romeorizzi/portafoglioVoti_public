@@ -12,7 +12,9 @@ Puoi testare le tue soluzioni (come originariamente sottomesse all'esame, oppure
 
 https://rizzi.olinfo.it/algo-simula-prove
 
-cui potrai accedere con username=pwd=vr?????? (ossia la tua matricola con 'vr' in minuscolo).
+cui potrai accedere con le credenziali:
+    username=id??????
+    pwd=VR??????
 
 In questo modo potrai riverificare il comportamento delle tue soluzioni, oppure continuare a lavorarci, ultimando quanto iniziato all'esame, migliorando o portando a compimento le tue implementazioni, o provare nuove soluzioni algoritmiche.
 
