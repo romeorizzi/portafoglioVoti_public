@@ -1,0 +1,70 @@
+VOTI DI ALGORITMI - appello del 26 Luglio 2022
+
++-----------+------------------------+----------------------+--------+--------------------------------+
+| matricola | incr_subseq_with_drops | bridges_and_cutnodes | TOTALE |              voto              |
++-----------+------------------------+----------------------+--------+--------------------------------+
+|  VR445195 |          40.0          |         0.0          |  40.0  |               21               |
+|  VR457796 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR459645 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR464270 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR464917 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR465826 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR471688 |          0.0           |         18.0         |  18.0  |               18               |
+|  VR472021 |         100.0          |         65.0         | 165.0  |               30               |
+|  VR472058 |          10.0          |         31.0         |  41.0  |               21               |
+|  VR472108 |          10.0          |         0.0          |  10.0  | nessun voto per questo appello |
+|  VR472347 |          50.0          |        100.0         | 150.0  |               29               |
+|  VR472500 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR473614 |          10.0          |         0.0          |  10.0  | nessun voto per questo appello |
+|  VR473639 |         100.0          |         74.0         | 174.0  |               30               |
+|  VR473845 |         100.0          |         0.0          | 100.0  |               25               |
+|  VR473852 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR474098 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR474275 |         100.0          |         65.0         | 165.0  |               30               |
+|  VR474539 |          10.0          |         0.0          |  10.0  | nessun voto per questo appello |
+|  VR474692 |          0.0           |         15.0         |  15.0  | nessun voto per questo appello |
+|  VR474699 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR474721 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR474722 |          0.0           |         15.0         |  15.0  | nessun voto per questo appello |
+|  VR474723 |          40.0          |         15.0         |  55.0  |               22               |
+|  VR475440 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR476576 |         100.0          |         83.0         | 183.0  |              30L               |
+|  VR476706 |          0.0           |         23.0         |  23.0  |               19               |
+|  VR477156 |          60.0          |         65.0         | 125.0  |               27               |
+|  VR477605 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR478050 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
+|  VR479912 |          20.0          |         0.0          |  20.0  |               18               |
+|  VR481889 |          50.0          |         0.0          |  50.0  |               22               |
+|  VR482140 |          0.0           |         0.0          |  0.0   | nessun voto per questo appello |
++-----------+------------------------+----------------------+--------+--------------------------------+
+
+# Spiegazioni:
+
+## Come posso migliorare il mio voto
+
+I voti degli appelli del modulo di algoritmi non si cancellano mai e al momento di chiedere la registrazione del voto mi indicherete l'appello dove il voto è maggiore. I voti possono essere prodotti sia tramite partecipazione ad appelli che tramite la conduzione di progetti concordati volti alla produzione di materiali e strumenti utili al corso o ad un investigazione anche scientifica (i progetti potranno ampliarsi anche in stage e/o tesi).
+
+## Prepararsi al prossimo appello:
+
+In questa cartella del portafoglioVoti trovate i codici da voi sottomessi durante l'esame e potete lavorarci ancora e sperimentarli sul contest algo-simula-prove. Trovate la VM algo-simula-prove allo URL:
+   https://rizzi.olinfo.it/algo-simula-prove
+
+Per accedere usa le credenziali:
+    username=vr??????
+    pwd=vr??????
+  (ossia la tua matricola con 'vr' in minuscolo, sia come username che come password).
+
+### Progetti 
+
+Potreste trovare interessante prendere parte a progetti dove predisporre problemi e materiali per le prossime edizioni del corso (se non già per quella corrente). L'idea per un proetto può venire anche da voi (anche meglio) ma deve trovare un senso (i progetti sono veri) e và comunque concordata.
+Al momento ho bisogno di aiuto nel realizzare l'infrastruttura per gli esami di Ricerca Operativa come anche sul seguente progetto:
+
+https://github.com/romeorizzi/TAlight
+
+Credo possa essere divertente oltre che istruttivo guardare le cose dalla parte di chi progetta e realizza dei problemi didattici con questo nostro nuovo strumento.
+
+
+## Come posso richiedere la registrazione di un voto
+
+Per ora con una mail dove specificate la vostra matricola ed il voto che vi attendete e la sua composizione dai dati degli appelli ricompresi in portafoglio-voti, ma, come progetto attualmente disponibile, realizziamo un bot Telegram da collocare sul canale del corso e che vi assista nel momento della richiesta di registrazione di voto ma anche di controllo del vostro portafoglioVoti.
+
