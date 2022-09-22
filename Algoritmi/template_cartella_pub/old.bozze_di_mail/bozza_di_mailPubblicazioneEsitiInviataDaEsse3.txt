@@ -1,4 +1,4 @@
-Subject: esiti appello di algoritmi 2022-09-20
+Subject: esiti appello di algoritmi DATA_APPELLO
 ferdinando.cicalese@univr.it
 
 Gli esiti dell'esame di algoritmi sono stati pubblicati al solito sito, seguire il link "Portafoglio Dei Tuoi Voti" alla pagina del corso  http://profs.sci.univr.it/~rrizzi/classes/Algoritmi/index.html
@@ -24,6 +24,12 @@ Ricordo che per il modulo di algoritmi il voto è il max dei voti acquisiti sugl
 
 Se per maturare un voto preferisci contribuire al corso con un progetto piuttosto che affrontare appelli d'esame, puoi aiutarci realizzando problemi o percorsi entro TAlight (https://github.com/romeorizzi/TALight con Wiki https://github.com/romeorizzi/TALight/wiki/EN_Home consigliamo la wiki in inglese) da rivolgere a tuoi compagni dei prossimi anni. Realizzando entro TAlight problemi su dimostrazioni di NP-completezza (o altri percorsi di area complessità), puoi migliorare anche il voto per il modulo di complessità. In ogni caso devi contattarmi per coordinare un percorso utile. Queste proposte sono valide anche come percorsi di stage o tesi, se reputi di essere in grado di contribuire utilmente a un progetto di pertinenza al corso/disciplina. Se hai visione, puoi venire anche con proposte tue su cose che si potrebbero fare per migliorare il corso e renderne più piacevole od utile la fruizione.
 
+Se il tuo voto termina con un * (esempi: 18*, 30L*) significa che è richiesto un colloquio orale per dare conferma al voto acquisito durante la prova in laboratorio, in caso contrario il tuo voto è spendibile da subito. Tale * viene rimosso a colloquio avvenuto, rendendo spendibile il voto. Il colloquio orale avverrà nella stanza Zoom https://univr.zoom.us/j/3518684000
+ed è inteso esclusivamente a dare conferma che le competenze dimostrate nella prova di laboratorio sono state espresse dal candidato.
+Finora il colloquio è stato richiesto solo in pochi casi, e mai a quegli studenti che hanno aderito alla sperimentazione mandando in streaming il loro esame a YouTube e facendomi avere il link ad esso.
+Se il tuo voto è corredato di tale *, prenditi lo slot che preferisci tra quelli ancora disponibili a https://calendly.com/romeo-rizzi
+o suggeriscimi dove utile io aggiunga ulteriori slot. 
+
 Talvolta, per "maturare" i 18 o ottenere un incremento sugli altri voti fisso delle condizioni che vi invitino a concludere il lavoro iniziato durante l'appello e a meglio ambientarvi nel sistema (realizzare un totale di almeno un certo tot di punti per gli esercizi dell'appello sul CMS algo-simula-prove).
 
 
@@ -48,7 +54,7 @@ Chi deve ottenere la registrazione del voto in pochi giorni, per questioni di bo
 
 # DISPONIBILITA'
 
-Non esitate a contattarmi per ogni necessità, avete i miei contacts. Per chi avesse bisogno di parlarmi di persona la prossima settimana sono in dipartimento in Verona mercoledì 28 e giovedì 29 settembre.
+Non esitate a contattarmi per ogni necessità, avete i miei contacts. Per chi avesse bisogno di parlarmi di persona sono in dipartimento in Verona ancora domani venedì 6 e poi la settimana 16-20, poi in ottobre.
 
 
 Cari saluti,
