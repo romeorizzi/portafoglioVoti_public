@@ -1,0 +1,20 @@
+BEGIN_MAPPA
+punti totali,voto
+0.0,nessun voto per questo appello
+10.0,nessun voto per questo appello
+15.0,nessun voto per questo appello
+18.0,18
+20.0,18
+23.0,19
+40.0,21
+41.0,21
+50.0,22
+55.0,22
+100.0,25
+125.0,27
+150.0,29
+165.0,30
+174.0,30
+183.0,30L
+END_MAPPA
+

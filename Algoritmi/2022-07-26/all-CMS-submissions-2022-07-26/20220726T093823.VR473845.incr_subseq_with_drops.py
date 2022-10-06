@@ -1,0 +1,58 @@
+"""
+* user:  VR473845
+* fname: ALBERTO
+* lname: CARLI
+* task:  esameincr_subseq_with_drops
+* score: 0.0
+* date:  2022-07-26 09:38:23.366873
+"""
+#!/usr/bin/env python3
+import sys
+
+g, n, k = list(map(int, input().split()))
+input_sequence = list(map(int, input().split()))
+
+def trova_lunghezza_massima(input_sequence, allowed_jumps):
+
+    max_len_sol = 0
+    num_max_sol = 0
+     
+    # Stato terminale. Ho una sola scelta possibile, la faccio.
+    if len(input_sequence) == 0:
+        return 0, 0
+    if len(input_sequence) == 1:
+        return 1, 1
+
+    # Considero tutte le opzioni, una per volta
+
+    for index, item in enumerate(input_sequence):
+        print(f"full input: {input_sequence}")
+
+        # Estraggo le altre scelte possibili rimanenti
+        temp = input_sequence[index:]
+
+        # Quando non ho salti disponibili riduco la dimensione
+        if allowed_jumps == 0:
+            temp = list([i for i in temp if i > item])
+
+        print(f"{item}: {temp}")
+
+        if len(temp) >= max_len_sol:
+            # Calcolo il massimo della lunghezza con le scelte rimanenti
+            sol_len, num_max_sol_sub = trova_lunghezza_massima(temp, allowed_jumps)
+            
+            if sol_len > max_len_sol:
+                max_len_sol = sol_len
+                num_max_sol = num_max_sol_sub
+            if sol_len == max_len_sol:
+                num_max_sol += 1
+
+            # Verifica degli elementi rimanenti
+            print(f"{sol_len}/{max_len_sol}\t{num_max_sol_sub}/{num_max_sol}")
+
+            print("-----------------")
+
+    return (1+max_len_sol, num_max_sol)
+
+print(trova_lunghezza_massima(input_sequence, 0)[g-1])
+exit(0)

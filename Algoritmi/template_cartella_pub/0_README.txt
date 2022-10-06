@@ -12,11 +12,13 @@ Puoi testare le tue soluzioni (come originariamente sottomesse all'esame, oppure
 
 https://rizzi.olinfo.it/algo-simula-prove
 
+cui potrai accedere con le credenziali:
+    username=id??????
+    pwd=VR??????
+
 In questo modo potrai riverificare il comportamento delle tue soluzioni, oppure continuare a lavorarci, ultimando quanto iniziato all'esame, migliorando o portando a compimento le tue implementazioni, o provare nuove soluzioni algoritmiche.
-Potrai altresì portare a maturazione eventuali voti soggetti alla condizione di completamento dell'esercizio (DOVRESTI ALLORA ACCEDERE CON LE STESSE CREDENZIALI COME ALL'ESAME).
 
 Caricati su questo stesso CMS trovi anche i problemi degli appelli precedenti (dal 2015 ad oggi) con cui potrai allenarti.
-Le tue credenziali per il CMS algo-simula-prove sono le stesse che per il CMS algo impiegato nelle esercitazioni del corso (se lo scopo non è quello della maturazione di condizioni di voto).
 
 Se vuoi accedere ai vari sorgenti del pacchetto problema (soluzioni, testo, generatori di istanze, ed eventuali grader e/o correttori e verificatori), puoi visionare tutto da:
  https://github.com/romeorizzi/esami-algo-public/
