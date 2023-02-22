@@ -1,0 +1,63 @@
+VOTI DI ALGORITMI - appello del 20 Febbraio 2023
+
++-----------+-----------------+-----------------------+-----------------------------+--------+------+
+| matricola | esame_odd_walks | esame_two_three_steps | esame_two_three_steps_stdio | TOTALE | voto |
++-----------+-----------------+-----------------------+-----------------------------+--------+------+
+|  VR439325 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR457323 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR457324 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR458622 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR459645 |       20.0      |          0.0          |             0.0             |  20.0  |  18  |
+|  VR463652 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR464922 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR465317 |       0.0       |          0.0          |             25.0            |  25.0  |  18  |
+|  VR465826 |       0.0       |          25.0         |             0.0             |  25.0  |  18  |
+|  VR471798 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR472066 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR472108 |       0.0       |          80.0         |             0.0             |  80.0  |  22  |
+|  VR472144 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR472433 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR472500 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR473845 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR473970 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR474022 |       15.0      |         100.0         |             0.0             | 115.0  |  26  |
+|  VR474539 |       0.0       |         100.0         |             0.0             | 100.0  |  24  |
+|  VR474565 |       0.0       |          0.0          |             80.0            |  80.0  |  22  |
+|  VR474699 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR474721 |       0.0       |         100.0         |             0.0             | 100.0  |  24  |
+|  VR475346 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR477605 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR478050 |       0.0       |          0.0          |             0.0             |  0.0   |      |
+|  VR481889 |       0.0       |          0.0          |             0.0             |  0.0   |      |
++-----------+-----------------+-----------------------+-----------------------------+--------+------+
+
+# Spiegazioni:
+
+## Come posso migliorare il mio voto
+
+I voti degli appelli del modulo di algoritmi non si cancellano mai e al momento di chiedere la registrazione del voto mi indicherete l'appello dove il voto è maggiore. I voti possono essere prodotti sia tramite partecipazione ad appelli che tramite la conduzione di progetti concordati volti alla produzione di materiali e strumenti utili al corso o ad un investigazione anche scientifica (i progetti potranno ampliarsi anche in stage e/o tesi).
+
+## Prepararsi al prossimo appello:
+
+In questa cartella del portafoglioVoti trovate i codici da voi sottomessi durante l'esame e potete lavorarci ancora e sperimentarli sul contest algo-simula-prove. Trovate la VM algo-simula-prove allo URL:
+   https://rizzi.olinfo.it/algo-simula-prove
+
+Per accedere usa le credenziali:
+    username=VR??????_id??????
+    pwd=VR??????_id??????
+
+
+### Progetti 
+
+Potreste trovare interessante prendere parte a progetti dove predisporre problemi e materiali per le prossime edizioni del corso (se non già per quella corrente). L'idea per un proetto può venire anche da voi (anche meglio) ma deve trovare un senso (i progetti sono veri) e và comunque concordata.
+Al momento ho bisogno di aiuto nel realizzare l'infrastruttura per gli esami di Ricerca Operativa come anche sul seguente progetto:
+
+https://github.com/romeorizzi/TAlight
+
+Credo possa essere divertente oltre che istruttivo guardare le cose dalla parte di chi progetta e realizza dei problemi didattici con questo nostro nuovo strumento.
+
+
+## Come posso richiedere la registrazione di un voto
+
+Per ora con una mail dove specificate la vostra matricola ed il voto che vi attendete e la sua composizione dai dati degli appelli ricompresi in portafoglio-voti, ma, come progetto attualmente disponibile, realizziamo un bot Telegram da collocare sul canale del corso e che vi assista nel momento della richiesta di registrazione di voto ma anche di controllo del vostro portafoglioVoti.
+

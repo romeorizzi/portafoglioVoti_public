@@ -1,0 +1,18 @@
+BEGIN_MAPPA
+punti totali,voto
+0.0,
+20.0,18
+25.0,18
+80.0,22
+100.0,24
+115.0,26
+END_MAPPA
+
+
+SPIEGAZIONI:
+1. a chi ha fatto punti sia su:
+      esame_two_three_steps
+   che su:
+      esame_two_three_steps_stdio
+   ovviamente non ho assegnato punti doppi per sostanzialmente lo stesso esercizio.
+2. dal 100 al 115 ho reputato opportuno riconoscere 2 voti in più perchè l'unico che è riuscito a prendere punti da entrambi gli esercizi.
