@@ -1,0 +1,9 @@
+Subject: esiti appello Algoritmi 2023-09-15
+
+I voti maturati con l'appello sono ora stati collocati nel portafoglioVoti del corso:
+https://github.com/romeorizzi/portafoglioVoti_public
+
+(Si vada nel folder Algoritmi e poi nel folder di appello (2023-09-15), dove oltre ai voti trovi le regole per poterli meglio valorizzare come da tuo percorso.)
+
+
+Romeo e Andrea

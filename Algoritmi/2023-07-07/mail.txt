@@ -1,0 +1,20 @@
+Subject: esiti appello Algoritmi 2023-07-07
+
+I voti maturati con l'appello sono ora stati collocati nel portafoglioVoti del corso:
+https://github.com/romeorizzi/portafoglioVoti_public
+
+(Si vada nel folder Algoritmi e poi nel folder di appello (2023-07-07), dove oltre ai voti trovi le regole per poterli meglio valorizzare come da tuo percorso.)
+
+Ci scusiamo per gli inconvenienti con la rete che hanno minato l'esperienza e la validità dell'appello, e di nuovo per il ritardo nella pubblicaziopne degli esiti (ci siamo dovuti prendere del tempo per analizzare la situazione e prendere delle decisioni equilibrate in merito).
+I dati raccolti erano purtroppo pochi ma non volevamo infierire visto che anche l'altro appello era andato largamente bruciato per altri motivi.
+
+Le scelte nella produzione dei voti sono pertanto state le seguenti:
+
+1. considerata la maggior difficoltà di risolvere correttamente i problemi al buoi, senza un sistema di feedback, rispetto a quanto avevamo originalmente in mente abbiamo riscalato la mappa punti-voto come se i punti totali a disposizione fossero stati solo quelli dei due esercizi che hanno effettivamente generato dei punti ("mutually_unreachable","ricerca_binaria"). Abbiamo ovviamente tenuto buoni anche i pochi punti raccolti sul problema "quanti_poldo", ma non li abbiamo considerati nel totale a denominatore.
+
+2. per la stessa ragione, abbiamo deciso di promuovere a punti platino una parte dei punti esame, anche se l'esercizio non era stato risolto completamente.
+
+3. abbiamo indugiato in una cosa che di principio non vorremmo mai tenere in considerazione: una valutazione umana dei codici intesa solo a recuperare qualcosa di quelli che non avevano fatto alcun punto. Lo scopo è stato anche quello di poter assegnare comunque un punteggio minimo, per premiare la partecipazione e il fatto di essersi fermati a sottomettere benchè in quella situazione difficile e frustrante. Ci scusiamo in ogni caso con chi si era magari dovuto prendere una giornata di permesso dal lavoro. 
+
+
+Romeo e Andrea

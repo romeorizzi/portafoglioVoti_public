@@ -16,5 +16,5 @@ Per gli appelli fino a febbraio 2023 usate la VM algo-simula-prove allo URL:
    https://rizzi.olinfo.it/algo-simula-prove
 
 Per gli appelli successivi usate il seguente server TALight:
-   rtal wss://ta.di.univr.it/algo list
+   rtal -s wss://ta.di.univr.it/algo list
 

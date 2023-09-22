@@ -8,7 +8,7 @@ CONTENUTO DI QUESTA CARTELLA
 - [non ancora implementato] il folder contenente tutte le vostre sottomissioni durante l'appello (il sottofolder con le tue sottoposizioni è protetto con la stessa password che avevi durante l'esame).
 
 Puoi pertanto testare o rivedere le tue soluzioni sottoponendole al server TALight dedicato. Ad esempio, per vedere tutti i problemi al monento serviti (essi includono tutti i problemi di appelli da quando usiamo TALight):
-   rtal wss://ta.di.univr.it/algo list
+   rtal -s wss://ta.di.univr.it/algo list
 
 Potrai così prendere le tue verifiche e/o completare la tua esperienza d'esame.
 
