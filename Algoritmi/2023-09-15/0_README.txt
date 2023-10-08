@@ -1,11 +1,13 @@
 CONTENUTO DI QUESTA CARTELLA
 
+- il file tabella_risultati_fine_esame.txt contiene la tabella dei punteggi totalizzati sui vari esercizi  
 - il file quadro_valutativo.md sintetizza le regole con cui dai punti sono stati prodotti i voti
 - il .csv file coi voti per questo appello
+- l'archivio vostre_sottomissioni.tar contiene le vostre sottomissioni
 - il file Spiegazioni.md spiega come gestire i voti che hai raccolto nel tuo portafoglio per il modulo di Algoritmi o per quello di Complessità, come migliorare la tua valutazione o richiedere la registrazione di un voto per l'intero insegnamento di Fondamenti.
 - [non ancora implementato] il folder contenente tutte le vostre sottomissioni durante l'appello (il sottofolder con le tue sottoposizioni è protetto con la stessa password che avevi durante l'esame).
 
-Puoi testare o rivedere le tue soluzioni sottoponendole al server TALight dedicato. Ad esempio, per vedere tutti i problemi al monento serviti (essi includono tutti i problemi di appelli da quando usiamo TALight):
+Puoi pertanto testare o rivedere le tue soluzioni sottoponendole al server TALight dedicato. Ad esempio, per vedere tutti i problemi al monento serviti (essi includono tutti i problemi di appelli da quando usiamo TALight):
    rtal -s wss://ta.di.univr.it/algo list
 
 Potrai così prendere le tue verifiche e/o completare la tua esperienza d'esame.

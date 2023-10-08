@@ -1,0 +1,13 @@
+Subject: esiti appello Algoritmi 2023-09-15
+
+I voti maturati con l'appello sono ora stati collocati nel portafoglioVoti del corso:
+https://github.com/romeorizzi/portafoglioVoti_public
+
+Si vada nel folder Algoritmi e poi nel folder di appello (2023-09-15), dove oltre ai voti trovi le regole per poterli meglio valorizzare come da tuo percorso.
+Troverai inoltre l'archivio vostre_sottomissioni.tar che contiene le vostre sottomissioni durante l'esame.
+
+Puoi testare o rivedere le tue soluzioni sottoponendole al server TALight dedicato. Ad esempio, per vedere tutti i problemi al monento serviti (essi includono tutti i problemi di appelli da quando usiamo TALight):
+   rtal -s wss://ta.di.univr.it/algo list
+
+
+Romeo e Andrea

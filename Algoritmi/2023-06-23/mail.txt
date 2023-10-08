@@ -1,0 +1,16 @@
+Subject: esiti appello Algoritmi 2023-06-23
+
+I voti maturati con l'appello sono ora stati collocati nel portafoglioVoti del corso:
+https://github.com/romeorizzi/portafoglioVoti_public
+
+(Si vada nel folder Algoritmi e poi nel folder di appello (2023-06-23), dove oltre ai voti trovi le regole per poterli meglio valorizzare come da tuo percorso.)
+
+Purtroppo alla fine abbiamo prodotto voti per soli 7 studenti, ma confidiamo che col prossimo appello si possa entrare in produzione.
+Nel prossimo appello (2023-07-07) incontrerai:
+ - il problema che probabilmente ti sarà più semplice sarà di nuovo un problema su grafi
+ - un problema sulla ricorsione con counting/ranking/unranking  ma che vorrà essere più semplice di quello sulle FBF trasparenti
+ - un problema interattivo che come idea risolutiva dovrebbe esserti meno arcana che quella per nim2.
+
+Ci scusiamo per il ritardo nella pubblicazione degli esiti.
+
+Romeo e Andrea
