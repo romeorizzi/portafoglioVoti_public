@@ -1,0 +1,7 @@
+VOTI DI COMPLESSITA'   appello 27 Settembre 2023
+
+matricola	voto
+VR487564	18
+VR496684	21
+VR471628	18
+VR451275	29
