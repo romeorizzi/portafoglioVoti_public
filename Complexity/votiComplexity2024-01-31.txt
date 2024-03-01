@@ -1,0 +1,6 @@
+VOTI DI COMPLESSITA'   appello 31 Gennaio 2024
+
+matricola	voto
+VR486291	21
+VR487985	23
+VR489524	24
