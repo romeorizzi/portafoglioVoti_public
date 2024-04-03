@@ -1,11 +1,22 @@
-# CMS
-.inode
-**/input
-**/output
-
 # backups
 *~
 *.bak
+
+# signatures and cryptography
+*.sig
+
+# MacOS X
+.DS_Store
+
+# archives
+*.zip
+*.tgz
+*.tar.gz
+*.tar
+*.7z
+
+# renditions
+*.pdf
 
 # LaTex
 *.aux
@@ -16,5 +27,3 @@ a.out
 __pycache__/
 *.py[cod]
 *$py.class
-
-
