@@ -7,9 +7,10 @@ CONTENUTO DI QUESTA CARTELLA
 - il file Spiegazioni.md spiega come gestire i voti che hai raccolto nel tuo portafoglio per il modulo di Algoritmi o per quello di Complessità, come migliorare la tua valutazione o richiedere la registrazione di un voto per l'intero insegnamento di Fondamenti.
 
 Puoi pertanto testare o rivedere le tue soluzioni sottoponendole al server TALight dedicato. Ad esempio, per vedere tutti i problemi al monento serviti (essi includono tutti i problemi di appelli da quando usiamo TALight):
-   rtal -s wss://ta.di.univr.it/algo list
+   rtal -s wss://ta.di.univr.it/algo2024 list
 
 Potrai così prendere le tue verifiche e/o completare la tua esperienza d'esame.
+Questo ti consente inoltre di recuperare dei punti bonus se non avevi già saturato questa voce (di max 5 punti voto).
 
 
 Per appelli di esame anteriori a 2023-02-20:

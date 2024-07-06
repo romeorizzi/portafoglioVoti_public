@@ -18,3 +18,10 @@ Per gli appelli fino a febbraio 2023 usate la VM algo-simula-prove allo URL:
 Per gli appelli successivi usate i seguenti server TALight:
    rtal -s wss://ta.di.univr.it/algo list
 
+   rtal -s wss://ta.di.univr.it/algo2024 list
+
+Al secondo trovate per altro il vostro bonus homeworks svolti da aggiungere al voto maturato con gli appelli d'esame:
+
+   rtal -s wss://ta.di.univr.it/algo2024 connect scoreboard
+
+Quando mi scrivete la mail per richiedere la registrazione del voto ricordatevi di conteggiare anche questo nel voto atteso (con esplicita menzione nella composizione analitica che a mè spetta di verificare di ogni suo elemento).
