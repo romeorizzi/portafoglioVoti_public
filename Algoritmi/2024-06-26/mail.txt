@@ -9,10 +9,12 @@ Per poter decifrare il file .zip di tua pertinenza devi usare la password person
 
 > rtal -s wss://ta.di.univr.it/algo2024 connect password
 
-Puoi testare o rivedere le tue soluzioni sottoponendole al server TALight dedicato. Ad esempio, per vedere tutti i problemi al monento serviti (essi includono tutti i problemi di appelli da quando usiamo TALight):
+Puoi testare o rivedere le tue soluzioni sottoponendole al server TALight dedicato agli homeworks proposti ed agli appelli di quest'anno accademico:
 
    rtal -s wss://ta.di.univr.it/algo2024 list
 
 Anche se non hai partecipato all'appello, questo ti consente inoltre di recuperare dei punti bonus se non hai già saturato questa voce (di max 5 punti voto). Ok, il moltiplicatore è meno generoso che durante l'erogazione del corso ma, con più lavoro, ti consente ancora di non essere penalizzato del caso tu non abbia frequentato.
+
+Vari file con istruzioni spiegano come gestire/registrare i tuoi voti o come accedere a problemi proposti in edizioni precedenti del corso.
 
 Romeo e Andrea
