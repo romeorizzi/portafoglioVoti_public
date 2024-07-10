@@ -4,12 +4,15 @@ I voti maturati con l'appello sono ora stati collocati nel portafoglioVoti del c
 https://github.com/romeorizzi/portafoglioVoti_public
 
 Si vada nel folder Algoritmi e poi nel folder di appello (2024-06-26), dove oltre ai voti trovi le regole per poterli meglio valorizzare come da tuo percorso e ogni altra informazione.
-Troverai inoltre l'archivio vostre_sottomissioni.tar che contiene le vostre sottomissioni durante l'esame.
+Troverai lì anche il folder your_submissions.cyphered che espone (criptate) le vostre sottomissioni durante l'appello.
+Per poter decifrare il file .zip di tua pertinenza devi usare la password personale che ti viene comunicata chiamando
+
+> rtal -s wss://ta.di.univr.it/algo2024 connect password
 
 Puoi testare o rivedere le tue soluzioni sottoponendole al server TALight dedicato. Ad esempio, per vedere tutti i problemi al monento serviti (essi includono tutti i problemi di appelli da quando usiamo TALight):
 
    rtal -s wss://ta.di.univr.it/algo2024 list
 
-Questo ti consente inoltre di recuperare dei punti bonus se non hai già saturato questa voce (di max 5 punti voto).
+Anche se non hai partecipato all'appello, questo ti consente inoltre di recuperare dei punti bonus se non hai già saturato questa voce (di max 5 punti voto). Ok, il moltiplicatore è meno generoso che durante l'erogazione del corso ma, con più lavoro, ti consente ancora di non essere penalizzato del caso tu non abbia frequentato.
 
 Romeo e Andrea

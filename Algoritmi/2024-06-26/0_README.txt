@@ -12,6 +12,12 @@ Puoi pertanto testare o rivedere le tue soluzioni sottoponendole al server TALig
 Potrai così prendere le tue verifiche e/o completare la tua esperienza d'esame.
 Questo ti consente inoltre di recuperare dei punti bonus se non avevi già saturato questa voce (di max 5 punti voto).
 
+Puoi visionare e partire da una tua sottomissione durante l'appello, se hai partecipato e sottomesso.
+Trovi le tue sottomissioni nel folder your_submissions.cyphered
+Per poter decifrare il file .zip di tua pertinenza devi usare la password personale che ti viene comunicata chiamando
+
+> rtal -s wss://ta.di.univr.it/algo2024 connect
+
 
 Per appelli di esame anteriori a 2023-02-20:
 

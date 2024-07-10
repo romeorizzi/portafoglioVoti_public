@@ -12,16 +12,26 @@ Ricordiamo che il voto_platino di un appello è il voto che si otterrebbe in que
 ## Prepararsi al prossimo appello:
 
 Il modo migliore è provando a risolvere esercizi di precedenti appelli.
-Per gli appelli fino a febbraio 2023 usate la VM algo-simula-prove allo URL:
+Per gli appelli fino a febbraio 2023 usa la VM algo-simula-prove allo URL:
    https://rizzi.olinfo.it/algo-simula-prove
 
-Per gli appelli successivi usate i seguenti server TALight:
+Per gli appelli successivi usa i seguenti server TALight:
    rtal -s wss://ta.di.univr.it/algo list
 
    rtal -s wss://ta.di.univr.it/algo2024 list
 
-Al secondo trovate per altro il vostro bonus homeworks svolti da aggiungere al voto maturato con gli appelli d'esame:
+Al secondo trovi per altro il tuo bonus homeworks svolti da aggiungere al voto maturato con gli appelli d'esame:
 
    rtal -s wss://ta.di.univr.it/algo2024 connect scoreboard
 
-Quando mi scrivete la mail per richiedere la registrazione del voto ricordatevi di conteggiare anche questo nel voto atteso (con esplicita menzione nella composizione analitica che a mè spetta di verificare di ogni suo elemento).
+E, se non sei arrivato a saturazione (max 5 punti voto), puoi migliorare il vostro bonus sottomettendo soluzioni a problemi d'esame proposti nel corso del corrente anno accademico (il moltiplicatore è ora meno generoso che durante l'erogazione del corso ma con più lavoro riesci ancora a non uscirne penalizzato).
+
+
+Puoi visionare e partire da una tua sottomissione durante l'appello, se hai partecipato e sottomesso.
+Trovi le tue sottomissioni nel folder your_submissions.cyphered
+Per poter decifrare il file .zip di tua pertinenza devi usare la password personale che ti viene comunicata chiamando
+
+> rtal -s wss://ta.di.univr.it/algo2024 connect password 
+
+
+Quando mi scrivete la mail per richiedere la registrazione del voto ricordatevi di conteggiare anche il bonus nel voto atteso (con esplicita menzione nella composizione analitica che a mè spetta di verificare in ogni suo elemento).
