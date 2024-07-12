@@ -9,6 +9,7 @@ Una volta acquisito il tuo voto anche per la parte di Complessità (con cui facc
 # composizione voto per la parte di Algoritmi
 
 Per la parte di Algoritmi, alla componente del voto ottenuta via esame devi sommare quella maturata via homeworks (max 5 unità di voto).
+Se questa somma>=33 il voto per la parte di algoritmi è 33 (cioè 30 e lode), altrimenti è min(30,somma).
 
 # componente homeworks
 
