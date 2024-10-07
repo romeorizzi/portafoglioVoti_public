@@ -1,0 +1,20 @@
+Subject: esiti appello Algoritmi 2024-09-18
+
+Trovi i voti maturati con l'appello 2024-09-18 nel portafoglioVoti del corso:
+https://github.com/romeorizzi/portafoglioVoti_public
+
+Si vada nel folder Algoritmi e poi nel folder di appello (2024-09-18), dove oltre ai voti trovi ogni altra informazione.
+Il folder your_submissions.cyphered contiene le vostre sottomissioni durante l'appello (criptate per privacy).
+Per decriptare il file .zip di tua pertinenza usa la tua password personale che ottieni chiamando:
+
+> rtal -s wss://ta.di.univr.it/algo2024 connect password
+
+Puoi testare o rivedere le tue soluzioni sottoponendole al server TALight dedicato agli homeworks proposti ed agli appelli di quest'anno accademico:
+
+   rtal -s wss://ta.di.univr.it/algo2024 list
+
+Anche se non hai partecipato all'appello, questo ti consente inoltre di recuperare dei punti bonus se non hai già saturato questa voce (di max 5 punti voto). Ok, il moltiplicatore è meno generoso che durante l'erogazione del corso ma, con più lavoro, ti consente ancora di non essere penalizzato del caso tu non abbia frequentato.
+
+Vari file con istruzioni spiegano come gestire/registrare i tuoi voti o come accedere a problemi proposti in varie fasi o edizioni del corso.
+
+Romeo e Andrea
