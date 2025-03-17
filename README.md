@@ -32,9 +32,9 @@ Ed eccole i miei dati:%0D%0A
 * cognome: xxxxxx <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
 * matricola: VR?????? <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A%0D%0A%0D%0A
 Nel comporre il voto ho utilizzato la regola della media per eccesso dove 30+lode = 33%2e%0D%0A
-Nota: Per ottenere 30+lode servono due 30 ed almeno una lode%2e%0D%0A
-* Eventuali suggerimenti per il corso: %0D%0A%0D%0A
-* Segnalazioni di eventuali malfunzionamenti da aggiustare: %0D%0A%%0D%0A%
+Nota: Per ottenere 30+lode servono due 30 ed almeno una lode.%2e%0D%0A
+* Eventuali suggerimenti o idee per il corso: %0D%0A%0D%0A
+* Segnalazioni di eventuali malfunzionamenti da aggiustare: %0D%0A%2e
 %2e">questo template di mail</a>.
 L'utilizzo di questo template di mail assicura tu non ometta alcun dato necessario al processamento rapido e sereno della tua richiesta. Ma, in aggiunta ai dati obbligatori, sentitevi liberi di aggiungere quanto ritenete opportuno.
 La mail verrà letta e gestita personalmente e fà sempre piacere scriviate anche fuori dalle righe, arrivateci insomma belli freschi come da vostre necessit&agrave; ma non fraschi (non omettete i precisi rifermineti di contesto necessari al processare la vostra richiesta).
