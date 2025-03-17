@@ -31,8 +31,8 @@ Ed eccole i miei dati:%0D%0A
 * nome: xxxxxx <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
 * cognome: xxxxxx <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
 * matricola: VR?????? <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A%0D%0A%0D%0A
-Nel comporre il voto ho utilizzato la regola della media per eccesso dove 30+lode = 33%2e
-%0D%0A Nota: Per ottenere 30+lode servono due 30 ed almeno una lode.%2e
+Nel comporre il voto ho utilizzato la regola della media per eccesso dove 30+lode = 33%2e%0D%0A
+Nota: Per ottenere 30+lode servono due 30 ed almeno una lode.%2e
 * Eventuali suggerimenti per il corso: %0D%0A%0D%0A
 * Segnalazioni di eventuali malfunzionamenti da aggiustare: %0D%0A%2e
 %2e">questo template di mail</a>.
