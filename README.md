@@ -71,6 +71,7 @@ Quando ritieni giunto il momento di registrare il tuo voto attuale, mandi una ma
 4. poichè io mi limito a cercare i riscontri alle voci di voto da te riportatemi nella mail, ed a controllare che il voto finale che producono corrisponda a quello che richiedi ti venga registrato, è bene che nella mail espliciti eventuali progetti che hai eventualmente condotto per questo corso, come ogni altra cosa che reputi opportuno (ossia di pertinenza).
 
 Siccome può capitarvi di dimenticare dei dettagli nella fretta (necessari perchè io possa verificare serenamente ogni riscontro, o anche utili a farvi riconoscere un voto maggiore), vi suggerisco, almeno per avviarne comodi la composizione, di utilizzare
+
 <a href="mailto:romeo.rizzi@univr.it?cc=ferdinando.cicalese@univr.it&subject=Richiesta
 registrazione voto finale per il corso Fondamenti di Algoritmi e
 Complessità&body=Prof. Rizzi%2c%0D%0A per l'insegnamento di Algoritmi
