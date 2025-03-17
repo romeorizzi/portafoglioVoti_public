@@ -1,4 +1,4 @@
-# PORTAFOGLIO DEI TUOI VOTI (corso di Algoritmi e Complessità - UniVR)
+# PORTAFOGLIO DEI TUOI VOTI (corso di Fondamenti di Algoritmi, Complessità e Problem Solving - UniVR)
 
 La presente repo mantiene quadro aggiornato dei tuoi voti attuali per il corso di "Fondamenti di Algoritmi, Complessità e Problem Solving" delle magistrali del Dipartimento di Informatica dell'Università di Verona.
 Il corso &egrave; un fondamentale del passante e si compone di due moduli: algoritmi e complessit&agrave;.
