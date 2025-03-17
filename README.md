@@ -32,49 +32,52 @@ Ed eccole i miei dati:%0D%0A
 * cognome: xxxxxx <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
 * matricola: VR?????? <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A%0D%0A%0D%0A
 Nel comporre il voto ho utilizzato la regola della media per eccesso dove 30+lode = 33%2e
-%0D%0A Nota: Per ottenere 30+lode servono due 30 ed almeno una lode%2e">questo template di mail%0D%0A%0D%0A
+%0D%0A Nota: Per ottenere 30+lode servono due 30 ed almeno una lode.%2e
 * Eventuali suggerimenti per il corso: %0D%0A%0D%0A
-* Segnalazioni di eventuali malfunzionamenti da aggiustare:
+* Segnalazioni di eventuali malfunzionamenti da aggiustare: %0D%0A%2e
 %2e">questo template di mail</a>.
-
-che assicura tu non ometta alcun dato necessario al processamento rapido e sereno della tua richiesta. Ma, in aggiunta ai dati richiesti, sentitevi liberi di aggiungere quanto ritenete opportuno.
+L'utilizzo di questo template di mail assicura tu non ometta alcun dato necessario al processamento rapido e sereno della tua richiesta. Ma, in aggiunta ai dati obbligatori, sentitevi liberi di aggiungere quanto ritenete opportuno.
 La mail verrà letta e gestita personalmente e fà sempre piacere scriviate anche fuori dalle righe, arrivateci insomma belli freschi come da vostre necessit&agrave; ma non fraschi (non omettete i precisi rifermineti di contesto necessari al processare la vostra richiesta).
 </p>
 
 ---
 ## PRASSI E WORKFLOW NELLA GENERAZIONE E GESTIONE DEI VOTI:
 
-Ricordo la politica che stiamo seguendo ormai da diversi anni e che cercheremo di garantire nel tempo anche in futuro:
+Ricordo le politiche che stiamo seguendo ormai da diversi anni e che cercheremo di garantire nel tempo anche in futuro:
 
-### per la prova scritta di Complessità:
+> per la parte di Complessità i voti vengono tenuti in caldo ma una consegna comporta che la nuova valutazione sovrascriva la precedente.
 
-> Per la parte di Complessità i voti vengono tenuti in caldo ma una consegna comporta che la nuova valutazione sovrascriva la precedente.
+> per la parte di Algoritmi potrai comporre il tuo voto attingendo sia da uno o più appelli svolti in laboratorio (almeno uno ti sarà necessario) che (opzionalmente) attraverso gli homeworks (bonus di max 5 punti voto). Le regole per la composizione del voto per la parte di Algoritmi sono più complesse, e di fatto hanno richiesto l'organizzazione di questo repo.
 
-### per la parte di Algoritmi
+### Composizione e gestione del voto per la parte di Algoritmi
 
-Per la parte di Algoritmi, otrai comporre il tuo voto attingendo sia da uno o più appelli svolti in laboratorio (almeno uno ti sarà necessario) che (opzionalmente) attraverso gli homeworks (bonus di max 5 punti voto). Ricordo che per Algoritmi avete più opzioni su come comporre il voto finale dai riscontri da voi prodotti sui vari appelli e attraverso gli homework. In buona sostanza, i punti homeworks (max 5) si sommano ai punti raccolti agli appelli. Se vi giocate un singolo appello (composizione voto con regola del max), scegliete quello dove avete ottenuto un voto standard di valore massimo e sommategli i punti accumulati con gli homeworks. Altrimenti (composizione voto tramite somma a 18), potete sommare i voti dei vari appelli cui avete partecipato ed aggiungere i punti bonus per gli homework, ma avete un tetto a 18 per la parte di Algoritmi.
-Oltre ai voti standard, un appello può generare anche voti argento, oro o platino (su esercizi dove avete esibito competenze di livello tale da meritarvi punti di tale categoria, e via via sempre più scalati al crescere del pregio del metallo).
-Sia ai vari appelli che poi al momento di comporre il vostro voto, scegliete di puntare sul metallo che meglio credete e tenete presente che i rispettivi tetti sono come da seguente tabella:
+Per Algoritmi avete più opzioni su come comporre il voto finale dai riscontri da voi prodotti sui vari appelli e attraverso gli homework. In buona sostanza, i punti homeworks (max 5) si sommano ai punti raccolti agli appelli. Se vi giocate un singolo appello (composizione voto con regola del max), scegliete quello dove avete ottenuto un voto standard di valore massimo e sommategli i punti accumulati con gli homeworks. Altrimenti (composizione voto tramite somma a 18), potete sommare i voti dei vari appelli cui avete partecipato ed aggiungere i punti bonus per gli homework, ma avete un tetto a 18 per la parte di Algoritmi.
+Oltre ai voti standard, un appello genera anche voti argento, oro o platino (su esercizi svolti in modo completo o dove avete quantomento esibito competenze al livello di tale categoria, e via via sempre più scalati al crescere del pregio del metallo).
+Esempio (solo indicativo): un esercizio da 20 punti voto standard, svolto in modo da totalizzare 18 punti voto standard, potrebbe generare i seguenti punti in portafoglioVoti: 18 punti standard, 0 punti platino perchè non raggiungeva i requisiti per valere in quella categoria, 13 punti oro (perchè raggiunge i requisiti), 16 punti argento (perchè raggiunge i requisiti). 
+Sia ai vari appelli che poi al momento di comporre il vostro voto, scegliete di puntare sul metallo che meglio credete e tenete presente che i rispettivi tetti sul voto finale ottenibile per la parte di Algoritmi sono come da seguente tabella:
 
-|     metallo   | tetto |
-| :---          |  ---  |
-| voto standard | 18 |
-| voto argento  | 20 |
-| voto oro      | 22 |
-| voto platino  | 24 |
+|     metallo   | regola/composizione | tetto se inclusi gli homework | tetto se esclusi gli homework |
+| :---          |  ---   |  ---  |  ---  |
+| voto standard | della somma | 18 | 20  |
+| voto argento  | della somma | 20 | 22  |
+| voto oro      | della somma | 22 | 24  |
+| voto platino  | della somma | 24 | 26  |
+| voto standard | del max | 30 | 30 e lode = 33 |
 
+> [!NOTE]
+> I punti homewors si maturano sottomettendo soluzioni agli esercizi proposti durante l'anno (se hai sottomesso in vari anni di corso, scegli il max dei punti raccolti sui vari anni). Un meccanismo premiale a moltiplicatori decrescenti nel tempo vi stimola ad affrontare un esercizio senza lasciar passare troppo tempo da quando proposto.
 
-Nella mail con cui mi chiederai di verbalizzare il tuo voto farai esplicito riferimento all'appello in cui ha conseguito il tuo migliore voto, ed al suo valore. Oppure elencherai i singoli appelli di cui vuoi sommare i voti (oppure i soli punti argento, o oro, o platino) per raggiungere la soglia del 18 (oppure del 20, o del 22, o del 24) inclusi i punti bonus dagli homework. I punti homewors si maturano sottomettendo soluzioni agli esercizi proposti durante l'anno (se hai sottomesso in vari anni di corso, scegli il max dei punti raccolti sui vari anni). Un meccanismo premiale a moltiplicatori decrescenti nel tempo vi stimola ad affrontare un esercizio senza lasciar passare troppo tempo da quando proposto.
+### sintesi del voto per l'intero corso
 
 Tra i voti delle due prove si fa media aritmetica arrotondata per eccesso e dove un 30 e lode vale 33. Per generare un 30 e lode come voto finale serve almeno una lode e nessun voto sotto il 30.
 
 Anche se non gestiti tramite il portafoglio voti, al voto possono inoltre concorrere progetti open source che possano essere di utilità per il corso (da concordare).
 
-### sintesi del voto per l'intero corso
-
 Quando ritieni giunto il momento di registrare il tuo voto attuale, mandi una mail a romeo.rizzi@univr.it come da template di mail offerto ad inizio di questo `README.md` file.
-Il template assicura tu non ometta alcun dato necessario al processamento sereno e rapido della tua richiesta.
-Può infatti altrimenti capitarvi di dimenticare dei dettagli nella fretta (necessari perchè io possa verificare serenamente ogni riscontro, o anche utili a farvi riconoscere un voto maggiore). Per altro viene anche comodo per voi partire dal template poichè le info da precisare non sono poche. 
+
+> [!TIP]
+> Il template assicura tu non ometta alcun dato necessario al processamento sereno e rapido della tua richiesta. Può infatti altrimenti capitarvi di dimenticare dei dettagli nella fretta (necessari perchè io possa verificare serenamente ogni riscontro, o anche utili a farvi riconoscere un voto maggiore).
+> Per altro viene anche comodo per voi partire dal template poichè le info da precisare non sono poche. 
 
 
 ## ORGANIZZAZIONE DELLA REPO
