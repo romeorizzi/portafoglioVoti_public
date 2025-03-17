@@ -1,19 +1,16 @@
 # PORTAFOGLIO DEI TUOI VOTI (corso di Fondamenti di Algoritmi, Complessità e Problem Solving - UniVR)
 
-Questa repo mantiene quadro aggiornato dei tuoi voti attuali per il corso di "Fondamenti di Algoritmi, Complessità e Problem Solving" delle magistrali del Dipartimento di Informatica dell'Università di Verona.
+Questa repo mantiene il quadro, dinamicamente  aggiornato, dei voti da te maturati per il corso di "Fondamenti di Algoritmi, Complessità e Problem Solving" delle magistrali del Dipartimento di Informatica dell'Università di Verona.
 Il corso &egrave; un fondamentale del passante e si compone di due moduli: algoritmi e complessit&agrave;.
+
 Il voto finale &egrave; unico ed espresso in trentesimi:
 viene calcolato come la media (arrotondata per eccesso) dei voti conseguiti sui due moduli (dove 30+lode &rarr; 33).
-<p>
+
 Non appena hai un voto positivo su entrambi i moduli,
 puoi richiedere la registrazione del voto finale corrente, e chiudere il tuo percorso con noi, ma saremo altrettanto felici di vederti lavorare oltre per ottenere di pi&ugrave;, che sia a titolo personale od in termini di voto.
-</p>
 <p>
 Quando sarà il momento, la registrazione del voto andrà richiesta utilizzando
-<a href="mailto:romeo.rizzi@univr.it?cc=ferdinando.cicalese@univr.it&subject=Richiesta
-registrazione voto finale per il corso Fondamenti di Algoritmi e
-Complessità&body=Prof. Rizzi%2c%0D%0A per l'insegnamento di Algoritmi
-e Complessità%2c le chiedo di procedere ora alla verbalizzazione del mio voto%2c%20che a mè risulta essere come segue%2e%0D%0A%0D%0A 
+<a href="mailto:romeo.rizzi@univr.it?cc=ferdinando.cicalese@univr.it&subject=Richiesta registrazione voto finale per il corso Fondamenti di Algoritmi e Complessità&body=Prof. Rizzi%2c%0D%0A per l'insegnamento di Algoritmi e Complessità%2c le chiedo di procedere ora alla verbalizzazione del mio voto%2c%20che a mè risulta essere come segue%2e%0D%0A%0D%0A 
 * voto da registrare: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A%0D%0A 
 * scadenza per l'evasione della richiesta:
 %2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e %2c ragione urgenza: %2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e <%2d%2d%5b2 CAMPI FACOLTATIVI %28da specificare solo se hai URGENZA%29%5d%0D%0A%0D%0A
