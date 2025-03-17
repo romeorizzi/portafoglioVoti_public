@@ -1,10 +1,10 @@
 # PORTAFOGLIO DEI TUOI VOTI (corso di Fondamenti di Algoritmi, Complessità e Problem Solving - UniVR)
 
 Questa repo mantiene il quadro, dinamicamente  aggiornato, dei voti da te maturati per il corso di "Fondamenti di Algoritmi, Complessità e Problem Solving" delle magistrali del Dipartimento di Informatica dell'Università di Verona.
-Il corso &egrave; un fondamentale del passante e si compone di due moduli: algoritmi e complessit&agrave;.
+Il corso &egrave; un fondamentale del passante e si compone di due moduli: Algoritmi (o parte pratica) e Complessit&agrave; (o parte teorica).
 
 Il voto finale &egrave; unico ed espresso in trentesimi:
-viene calcolato come la media (arrotondata per eccesso) dei voti conseguiti sui due moduli (dove 30+lode &rarr; 33).
+viene calcolato come media aritmetica arrotondata per eccesso e dove un 30 e lode vale 33. (In direzione contraria, per generare un 30 e lode come voto finale serve almeno una lode e nessuno dei due voti può essere sotto il 30.)
 
 Non appena hai un voto positivo su entrambi i moduli,
 puoi richiedere la registrazione del voto finale corrente, e chiudere il tuo percorso con noi, ma saremo altrettanto felici di vederti lavorare oltre per ottenere di pi&ugrave;, che sia a titolo personale od in termini di voto.
@@ -44,11 +44,11 @@ Ricordo le politiche che stiamo seguendo ormai da diversi anni e che cercheremo 
 
 > per la parte di Complessità i voti vengono tenuti in caldo ma una consegna comporta che la nuova valutazione sovrascriva la precedente.
 
-> per la parte di Algoritmi potrai comporre il tuo voto attingendo sia da uno o più appelli svolti in laboratorio (almeno uno ti sarà necessario) che (opzionalmente) attraverso gli homeworks (bonus di max 5 punti voto). Le regole per la composizione del voto per la parte di Algoritmi sono più complesse, e di fatto hanno richiesto l'organizzazione di questo repo.
+> per la parte di Algoritmi potrai comporre il tuo voto attingendo sia da uno o più appelli svolti in laboratorio (almeno uno ti sarà necessario) che (opzionalmente) attraverso gli homework (bonus di max 5 punti voto). Le regole per la composizione del voto per la parte di Algoritmi sono più complesse, e di fatto hanno richiesto l'organizzazione di questo repo.
 
 ### Composizione e gestione del voto per la parte di Algoritmi
 
-Per Algoritmi avete più opzioni su come comporre il voto finale dai riscontri da voi prodotti sui vari appelli e attraverso gli homework. In buona sostanza, i punti homeworks (max 5) si sommano ai punti raccolti agli appelli. Se vi giocate un singolo appello (composizione voto con regola del max), scegliete quello dove avete ottenuto un voto standard di valore massimo e sommategli i punti accumulati con gli homeworks. Altrimenti (composizione voto tramite somma a 18), potete sommare i voti dei vari appelli cui avete partecipato ed aggiungere i punti bonus per gli homework, ma avete un tetto a 18 per la parte di Algoritmi.
+Per Algoritmi avete più opzioni su come comporre il voto finale dai riscontri da voi prodotti sui vari appelli e attraverso gli homework. In buona sostanza, i punti homework (max 5) si sommano ai punti raccolti agli appelli. Se vi giocate un singolo appello (composizione voto con regola del max), scegliete quello dove avete ottenuto un voto standard di valore massimo e sommategli i punti accumulati con gli homework. Altrimenti (composizione voto tramite somma a 18), potete sommare i voti dei vari appelli cui avete partecipato ed aggiungere i punti bonus per gli homework, ma avete un tetto a 18 per la parte di Algoritmi.
 Oltre ai voti standard, un appello genera anche voti argento, oro o platino (su esercizi svolti in modo completo o dove avete quantomento esibito competenze al livello di tale categoria, e via via sempre più scalati al crescere del pregio del metallo).
 Esempio (solo indicativo): un esercizio da 20 punti voto standard, svolto in modo da totalizzare 18 punti voto standard, potrebbe generare i seguenti punti in portafoglioVoti: 18 punti standard, 0 punti platino perchè non raggiungeva i requisiti per valere in quella categoria, 13 punti oro (perchè raggiunge i requisiti), 16 punti argento (perchè raggiunge i requisiti). 
 Sia ai vari appelli che poi al momento di comporre il vostro voto, scegliete di puntare sul metallo che meglio credete e tenete presente che i rispettivi tetti sul voto finale ottenibile per la parte di Algoritmi sono come da seguente tabella:
@@ -70,7 +70,7 @@ Tra i voti delle due prove si fa media aritmetica arrotondata per eccesso e dove
 
 Anche se non gestiti tramite il portafoglio voti, al voto possono inoltre concorrere progetti open source che possano essere di utilità per il corso (da concordare).
 
-Quando ritieni giunto il momento di registrare il tuo voto attuale, mandi una mail a romeo.rizzi@univr.it come da template di mail offerto ad inizio di questo `README.md` file.
+Quando ritieni giunto il momento di registrare il tuo voto attuale, mandi una mail a romeo.rizzi@univr.it come da template di mail offerto quì sopra, ad inizio di questo `README.md` file.
 
 > [!TIP]
 > Il template assicura tu non ometta alcun dato necessario al processamento sereno e rapido della tua richiesta. Può infatti altrimenti capitarvi di dimenticare dei dettagli nella fretta (necessari perchè io possa verificare serenamente ogni riscontro, o anche utili a farvi riconoscere un voto maggiore).
@@ -85,7 +85,7 @@ Nella mail con cui mi chiederai di verbalizzare il tuo voto farai esplicito rife
 __La sottocartella "Algoritmi"__ contiene una sottocartella per ogni singolo appello di Algoritmi, con i voti conseguiti in tale appello ed altri materiali che hanno concorso alla loro produzione.
 Per ciascuno di questi voti viene inoltre riportato il dettaglio di composizione (punti sui vari esercizi dell'appello) e, almeno qualora i voti standard/argento/oro/platino non vi apparissero già dalla `scoreboard` durante l'appello, le regole di mappatura da punti a voto. I punti di bonus per gli homework o per progetti di servizio al corso NON sono già inclusi nei voti appello in portafoglio in quanto non vengono consumati con l'appello. Stà quindi a tè aggiungerli nella gestione del tuo portafoglio voti e nel voto atteso precisato nella mail con cui richiedi la registrazione del voto finale.
 
-Il folder `bonus_homeworks` contiene i punti homeworks acquisiti in anni accademici precedenti (sugli anni si fà il max) mentre per l'anno corrente è il problema-sevizio `scoreboard` a darti un quadro dinamico completo (inclusivo delle scadenze dei moltiplicatori attualmente impostati) della situazione dei punti homeworks raccolti e delle opportunità attuali per acquisirne altri (l'aggiunta incrementale di nuovi problemi e moltiplicatori assicura che il tuo voto homework possa solo crescere monotonamente nel corso dell'anno). Accedi a questo servizio [`rtal`](https://github.com/romeorizzi/AlgoritmiUniVR/tree/main/strumenti#-la-nostra-piattaforma-rtal) con:
+Il folder `bonus_homework` contiene i punti homework acquisiti in anni accademici precedenti (sugli anni si fà il max) mentre per l'anno corrente è il problema-sevizio `scoreboard` a darti un quadro dinamico completo (inclusivo delle scadenze dei moltiplicatori attualmente impostati) della situazione dei punti homework raccolti e delle opportunità attuali per acquisirne altri (l'aggiunta incrementale di nuovi problemi e moltiplicatori assicura che il tuo voto homework possa solo crescere monotonamente nel corso dell'anno). Accedi a questo servizio [`rtal`](https://github.com/romeorizzi/AlgoritmiUniVR/tree/main/strumenti#-la-nostra-piattaforma-rtal) con:
 ```
    rtal -s wss//ta.di.univr.it/algo scoreboard
 ```
