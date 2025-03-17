@@ -13,35 +13,26 @@ Quando sarà i momento, la registrazione del voto andrà richiesta utilizzando
 <a href="mailto:romeo.rizzi@univr.it?cc=ferdinando.cicalese@univr.it&subject=Richiesta
 registrazione voto finale per il corso Fondamenti di Algoritmi e
 Complessità&body=Prof. Rizzi%2c%0D%0A per l'insegnamento di Algoritmi
-e Complessità%2c le chiedo di procedere ora alla verbalizzazione del
-mio voto%2c%20che a mè risulta essere come segue%2e%0D%0A%0D%0A * voto
-da registrare: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO
-NECESSARIO%5d%0D%0A%0D%0A * scadenza per l'evasione della richiesta:
-%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e %2c ragione urgenza:
-%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e <%2d%2d%5b2 CAMPI
-FACOLTATIVI %28da specificare solo se hai URGENZA%29%5d%0D%0A%0D%0A
-Ecco come lo avrei composto dal mio portafoglio voti attuale:%0D%0A *
-voto Complessità: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO
-NECESSARIO%5d%0D%0A * conseguito nell'appello yyyy-mm-dd
-<%2d%2d%5bCAMPO FACOLTATIVO %28se non sei sicuro sull'appello puoi
-evitare di specificarlo o suggerire una specifica
-indicativa%29%5d%0D%0A%0D%0A * voto Algoritmi: %2e%2e%2e%2e%2e%2e%2e
-<%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A * comprensivo di un bonus homework
-di: <%2d%2d%5b%28UN VALORE DA 0 A 5%29%5d%0D%0A * anno accademico del
-bonus homework: <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A * conseguito
-interamente nel singolo appello yyyy-mm-dd <%2d%2d%5bCAMPO FACOLTATIVO
-%28se non sei sicuro sull'appello puoi evitare di specificarlo o
-suggerire una specifica indicativa%29%5d%0D%0A * %5b%28OPPURE, SE
-PRODOTTO LAVORANDO SU VARI APPELLI%29%5d%0D%0A * conseguito per
-raccolta di punti (argento, o oro, o platino) sugli appelli
-yyyy-mm-dd, yyyy-mm-dd, ...  <%2d%2d%5bOBBLIGATORIA una specifica
-quantomeno indicativa%29%5d%0D%0A%0D%0A Ed eccole i miei dati:%0D%0A *
-nome: xxxxxx <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A * cognome: xxxxxx
-<%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A * matricola: VR??????
-<%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A%0D%0A%0D%0A Nel comporre il voto
-ho utilizzato la regola della media per eccesso dove 30+lode = 33%2e
-%0D%0A Nota: Per ottenere 30+lode servono due 30 ed almeno una
-lode%2e">questo template di mail</a>.
+e Complessità%2c le chiedo di procedere ora alla verbalizzazione del mio voto%2c%20che a mè risulta essere come segue%2e%0D%0A%0D%0A 
+* voto da registrare: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A%0D%0A 
+* scadenza per l'evasione della richiesta:
+%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e %2c ragione urgenza: %2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e <%2d%2d%5b2 CAMPI FACOLTATIVI %28da specificare solo se hai URGENZA%29%5d%0D%0A%0D%0A
+Ecco come lo avrei composto dal mio portafoglio voti attuale:%0D%0A 
+* voto Complessità: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
+* conseguito nell'appello yyyy-mm-dd <%2d%2d%5bCAMPO FACOLTATIVO %28se non sei sicuro sull'appello puoi evitare di specificarlo o suggerire una specifica indicativa%29%5d%0D%0A%0D%0A 
+* voto Algoritmi: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
+* comprensivo di un bonus homework di: <%2d%2d%5b%28UN VALORE DA 0 A 5%29%5d%0D%0A 
+* anno accademico del bonus homework: <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
+* conseguito interamente nel singolo appello yyyy-mm-dd <%2d%2d%5bCAMPO FACOLTATIVO
+%28se non sei sicuro sull'appello puoi evitare di specificarlo o suggerire una specifica indicativa%29%5d%0D%0A 
+   * %5b%28OPPURE, SE PRODOTTO LAVORANDO SU VARI APPELLI%29%5d%0D%0A 
+   * conseguito per raccolta di punti (argento, o oro, o platino) sugli appelli yyyy-mm-dd, yyyy-mm-dd, ...  <%2d%2d%5bOBBLIGATORIA una specifica quantomeno indicativa%29%5d%0D%0A%0D%0A
+Ed eccole i miei dati:%0D%0A 
+* nome: xxxxxx <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
+* cognome: xxxxxx <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
+* matricola: VR?????? <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A%0D%0A%0D%0A
+Nel comporre il voto ho utilizzato la regola della media per eccesso dove 30+lode = 33%2e
+%0D%0A Nota: Per ottenere 30+lode servono due 30 ed almeno una lode%2e">questo template di mail</a>.
 Il template assicura tu non ometta alcun dato necessario al processamente della tua richiesta, ma sentitevi liberi di aggiungere quanto ritenete opportuno.
 La mail verrà letta e gestita personalmente e fà sempre piacere scriviate anche fuori dalle righe, arrivateci insomma belli freschi come da vostre necessit&agrave; ma non fraschi (non omettete i precisi rifermineti di contesto necessari al processare la vostra richiesta).
 </p>
@@ -77,42 +68,32 @@ Quando ritieni giunto il momento di registrare il tuo voto attuale, mandi una ma
 1. voto della prova di laboratorio e appello a cui lo hai conseguito (regola del max); 
 2. __ultimo__ voto conseguito in una prova scritta durante la quale hai __consegnato__ il tuo compito;
 3. voto che ti attendi ti venga verbalizzato;
-4. poichè io mi limito a cercare i riscontri alle voci di voto da te tiportatemi nella mail, ed a controllare che il voto finale che producono corrisponda a quello che richiedi ti venga registrato, è bene che nella mail espliciti eventuali progetti che hai eventualmente condotto per questo corso, come ogni altra cosa che reputi opportuno (ossia di pertinenza).
+4. poichè io mi limito a cercare i riscontri alle voci di voto da te riportatemi nella mail, ed a controllare che il voto finale che producono corrisponda a quello che richiedi ti venga registrato, è bene che nella mail espliciti eventuali progetti che hai eventualmente condotto per questo corso, come ogni altra cosa che reputi opportuno (ossia di pertinenza).
 
-Ma siccome anche voi giovini dimenticate talvolta i dettagli nella fretta, vi suggerisco, almeno per avviarne comodi la composizione, di utilizzare
-<a
-href="mailto:romeo.rizzi@univr.it?cc=ferdinando.cicalese@univr.it&subject=Richiesta
+Siccome può capitarvi di dimenticare dei dettagli nella fretta (necessari perchè io possa verificare serenamente ogni riscontro, o anche utili a farvi riconoscere un voto maggiore), vi suggerisco, almeno per avviarne comodi la composizione, di utilizzare
+<a href="mailto:romeo.rizzi@univr.it?cc=ferdinando.cicalese@univr.it&subject=Richiesta
 registrazione voto finale per il corso Fondamenti di Algoritmi e
 Complessità&body=Prof. Rizzi%2c%0D%0A per l'insegnamento di Algoritmi
-e Complessità%2c le chiedo di procedere ora alla verbalizzazione del
-mio voto%2c%20che a mè risulta essere come segue%2e%0D%0A%0D%0A * voto
-da registrare: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO
-NECESSARIO%5d%0D%0A%0D%0A * scadenza per l'evasione della richiesta:
-%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e %2c ragione urgenza:
-%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e <%2d%2d%5b2 CAMPI
-FACOLTATIVI %28da specificare solo se hai URGENZA%29%5d%0D%0A%0D%0A
-Ecco come lo avrei composto dal mio portafoglio voti attuale:%0D%0A *
-voto Complessità: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO
-NECESSARIO%5d%0D%0A * conseguito nell'appello yyyy-mm-dd
-<%2d%2d%5bCAMPO FACOLTATIVO %28se non sei sicuro sull'appello puoi
-evitare di specificarlo o suggerire una specifica
-indicativa%29%5d%0D%0A%0D%0A * voto Algoritmi: %2e%2e%2e%2e%2e%2e%2e
-<%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A * comprensivo di un bonus homework
-di: <%2d%2d%5b%28UN VALORE DA 0 A 5%29%5d%0D%0A * anno accademico del
-bonus homework: <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A * conseguito
-interamente nel singolo appello yyyy-mm-dd <%2d%2d%5bCAMPO FACOLTATIVO
-%28se non sei sicuro sull'appello puoi evitare di specificarlo o
-suggerire una specifica indicativa%29%5d%0D%0A * %5b%28OPPURE, SE
-PRODOTTO LAVORANDO SU VARI APPELLI%29%5d%0D%0A * conseguito per
-raccolta di punti (argento, o oro, o platino) sugli appelli
-yyyy-mm-dd, yyyy-mm-dd, ...  <%2d%2d%5bOBBLIGATORIA una specifica
-quantomeno indicativa%29%5d%0D%0A%0D%0A Ed eccole i miei dati:%0D%0A *
-nome: xxxxxx <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A * cognome: xxxxxx
-<%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A * matricola: VR??????
-<%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A%0D%0A%0D%0A Nel comporre il voto
-ho utilizzato la regola della media per eccesso dove 30+lode = 33%2e
-%0D%0A Nota: Per ottenere 30+lode servono due 30 ed almeno una
-lode%2e">questo template di mail</a>.
+e Complessità%2c le chiedo di procedere ora alla verbalizzazione del mio voto%2c%20che a mè risulta essere come segue%2e%0D%0A%0D%0A 
+* voto da registrare: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A%0D%0A 
+* scadenza per l'evasione della richiesta:
+%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e %2c ragione urgenza: %2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e <%2d%2d%5b2 CAMPI FACOLTATIVI %28da specificare solo se hai URGENZA%29%5d%0D%0A%0D%0A
+Ecco come lo avrei composto dal mio portafoglio voti attuale:%0D%0A 
+* voto Complessità: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
+* conseguito nell'appello yyyy-mm-dd <%2d%2d%5bCAMPO FACOLTATIVO %28se non sei sicuro sull'appello puoi evitare di specificarlo o suggerire una specifica indicativa%29%5d%0D%0A%0D%0A 
+* voto Algoritmi: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
+* comprensivo di un bonus homework di: <%2d%2d%5b%28UN VALORE DA 0 A 5%29%5d%0D%0A 
+* anno accademico del bonus homework: <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
+* conseguito interamente nel singolo appello yyyy-mm-dd <%2d%2d%5bCAMPO FACOLTATIVO
+%28se non sei sicuro sull'appello puoi evitare di specificarlo o suggerire una specifica indicativa%29%5d%0D%0A 
+   * %5b%28OPPURE, SE PRODOTTO LAVORANDO SU VARI APPELLI%29%5d%0D%0A 
+   * conseguito per raccolta di punti (argento, o oro, o platino) sugli appelli yyyy-mm-dd, yyyy-mm-dd, ...  <%2d%2d%5bOBBLIGATORIA una specifica quantomeno indicativa%29%5d%0D%0A%0D%0A
+Ed eccole i miei dati:%0D%0A 
+* nome: xxxxxx <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
+* cognome: xxxxxx <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
+* matricola: VR?????? <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A%0D%0A%0D%0A
+Nel comporre il voto ho utilizzato la regola della media per eccesso dove 30+lode = 33%2e
+%0D%0A Nota: Per ottenere 30+lode servono due 30 ed almeno una lode%2e">questo template di mail</a>.
 Il template assicura tu non ometta alcun dato necessario al processamente della tua richiesta, ma sentitevi liberi di aggiungere quanto ritenete opportuno.
 La mail verrà letta e gestita personalmente e fà sempre piacere scriviate anche fuori dalle righe, arrivateci insomma belli freschi come da vostre necessit&agrave; ma non fraschi (non omettete i precisi rifermineti di contesto necessari al processare la vostra richiesta, la qual cosa potrebbe implicare slittamento a prossimo scaglione).
 </p>
