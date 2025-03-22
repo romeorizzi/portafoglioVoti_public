@@ -8,8 +8,8 @@ viene calcolato come media aritmetica arrotondata per eccesso e dove un 30 e lod
 
 Non appena hai un voto positivo su entrambi i moduli,
 puoi richiedere la registrazione del voto finale corrente, e chiudere il tuo percorso con noi, ma saremo altrettanto felici di vederti lavorare oltre per ottenere di pi&ugrave;, che sia a titolo personale od in termini di voto.
-<p>
-Quando sarà il momento, la registrazione del voto andrà richiesta inviandoci una mail come da [questo template della mail e relativa istruzioni](template_mail_richiesta_registrazione_voto.md).
+
+Quando sarà il momento, la registrazione del voto finale per l'intero insegnamento di Algoritmi e Complessità andrà richiesta inviandoci una mail come da [questo template della mail e relativa istruzioni](./template_mail_richiesta_registrazione_voto.txt).
 L'utilizzo di questo template di mail assicura tu non ometta alcun dato necessario al processamento rapido e sereno della tua richiesta. Ma, in aggiunta ai dati obbligatori, sentitevi liberi di aggiungere quanto ritenete opportuno.
 La mail verrà letta e gestita personalmente e fà sempre piacere scriviate anche fuori dalle righe, arrivateci insomma belli freschi come da vostre necessit&agrave; ma non fraschi (non omettete i precisi rifermineti di contesto necessari al processare la vostra richiesta).
 </p>
@@ -47,7 +47,8 @@ Tra i voti delle due prove si fa media aritmetica arrotondata per eccesso e dove
 
 Anche se non gestiti tramite il portafoglio voti, al voto possono inoltre concorrere progetti open source che possano essere di utilità per il corso (da concordare).
 
-Quando ritieni giunto il momento di registrare il tuo voto attuale, ci mandi una mail come da [questo template della mail e relativa istruzioni](template_mail_richiesta_registrazione_voto.md).
+Quando ritieni giunto il momento di registrare il tuo voto attuale, ci mandi una mail come da [questo template della mail e relativa istruzioni](./template_mail_richiesta_registrazione_voto.txt).
+
 
 > [!TIP]
 > Il template assicura tu non ometta alcun dato necessario al processamento sereno e rapido della tua richiesta. Può infatti altrimenti capitarvi di dimenticare dei dettagli nella fretta (necessari perchè io possa verificare serenamente ogni riscontro, o anche utili a farvi riconoscere un voto maggiore).
