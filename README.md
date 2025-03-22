@@ -9,30 +9,7 @@ viene calcolato come media aritmetica arrotondata per eccesso e dove un 30 e lod
 Non appena hai un voto positivo su entrambi i moduli,
 puoi richiedere la registrazione del voto finale corrente, e chiudere il tuo percorso con noi, ma saremo altrettanto felici di vederti lavorare oltre per ottenere di pi&ugrave;, che sia a titolo personale od in termini di voto.
 <p>
-Quando sarà il momento, la registrazione del voto andrà richiesta utilizzando
-<a href="mailto:romeo.rizzi@univr.it?cc=ferdinando.cicalese@univr.it&subject=Richiesta registrazione voto finale per il corso Fondamenti di Algoritmi e Complessità&body=Prof. Rizzi%2c%0D%0A per l'insegnamento di Algoritmi e Complessità%2c le chiedo di procedere ora alla verbalizzazione del mio voto%2c%20che a mè risulta essere come segue%2e%0D%0A%0D%0A 
-* voto da registrare: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A%0D%0A 
-* scadenza per l'evasione della richiesta:
-%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e %2c ragione urgenza: %2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e <%2d%2d%5b2 CAMPI FACOLTATIVI %28da specificare solo se hai URGENZA%29%5d%0D%0A%0D%0A
-Ecco come lo avrei composto dal mio portafoglio voti attuale:%0D%0A 
-* voto Complessità: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
-* conseguito nell'appello yyyy-mm-dd <%2d%2d%5bCAMPO FACOLTATIVO %28se non sei sicuro sull'appello puoi evitare di specificarlo o suggerire una specifica indicativa%29%5d%0D%0A%0D%0A 
-* voto Algoritmi: %2e%2e%2e%2e%2e%2e%2e <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
-* comprensivo di un bonus homework di: <%2d%2d%5b%28UN VALORE DA 0 A 5%29%5d%0D%0A 
-* anno accademico del bonus homework: <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
-* conseguito interamente nel singolo appello yyyy-mm-dd <%2d%2d%5bCAMPO FACOLTATIVO
-%28se non sei sicuro sull'appello puoi evitare di specificarlo o suggerire una specifica indicativa%29%5d%0D%0A 
-   * %5b%28OPPURE, SE PRODOTTO LAVORANDO SU VARI APPELLI%29%5d%0D%0A 
-   * conseguito per raccolta di punti (argento, o oro, o platino) sugli appelli yyyy-mm-dd, yyyy-mm-dd, ...  <%2d%2d%5bOBBLIGATORIA una specifica quantomeno indicativa%29%5d%0D%0A%0D%0A
-Ed eccole i miei dati:%0D%0A 
-* nome: xxxxxx <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
-* cognome: xxxxxx <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A 
-* matricola: VR?????? <%2d%2d%5bCAMPO NECESSARIO%5d%0D%0A%0D%0A%0D%0A
-Nel comporre il voto ho utilizzato la regola della media per eccesso dove 30+lode = 33%2e%0D%0A
-Nota: Per ottenere 30+lode servono due 30 ed almeno una lode.%2e%0D%0A
-* Eventuali suggerimenti o idee per il corso: %0D%0A%0D%0A
-* Segnalazioni di eventuali malfunzionamenti da aggiustare: %0D%0A%2e
-%2e">questo template di mail</a>.
+Quando sarà il momento, la registrazione del voto andrà richiesta inviandoci una mail come da [questo template della mail e relativa istruzioni](template_mail_voto.txt).
 L'utilizzo di questo template di mail assicura tu non ometta alcun dato necessario al processamento rapido e sereno della tua richiesta. Ma, in aggiunta ai dati obbligatori, sentitevi liberi di aggiungere quanto ritenete opportuno.
 La mail verrà letta e gestita personalmente e fà sempre piacere scriviate anche fuori dalle righe, arrivateci insomma belli freschi come da vostre necessit&agrave; ma non fraschi (non omettete i precisi rifermineti di contesto necessari al processare la vostra richiesta).
 </p>
@@ -50,7 +27,7 @@ Ricordo le politiche che stiamo seguendo ormai da diversi anni e che cercheremo 
 
 Per Algoritmi avete più opzioni su come comporre il voto finale dai riscontri da voi prodotti sui vari appelli e attraverso gli homework. In buona sostanza, i punti homework (max 5) si sommano ai punti raccolti agli appelli. Se vi giocate un singolo appello (composizione voto con regola del max), scegliete quello dove avete ottenuto un voto standard di valore massimo e sommategli i punti accumulati con gli homework. Altrimenti (composizione voto tramite somma a 18), potete sommare i voti dei vari appelli cui avete partecipato ed aggiungere i punti bonus per gli homework, ma avete un tetto a 18 per la parte di Algoritmi.
 Oltre ai voti standard, un appello genera anche voti argento, oro o platino (su esercizi svolti in modo completo o dove avete quantomento esibito competenze al livello di tale categoria, e via via sempre più scalati al crescere del pregio del metallo).
-Esempio (solo indicativo): un esercizio da 20 punti voto standard, svolto in modo da totalizzare 18 punti voto standard, potrebbe generare i seguenti punti in portafoglioVoti: 18 punti standard, 0 punti platino perchè non raggiungeva i requisiti per valere in quella categoria, 13 punti oro (perchè raggiunge i requisiti), 16 punti argento (perchè raggiunge i requisiti). 
+Esempio (solo indicativo): un esercizio da 20 punti voto standard, svolto in modo da totalizzare 18 punti voto standard, potrebbe generare i seguenti punti in portafoglioVoti: 18 punti standard, 0 punti platino perchè non raggiungeva i requisiti perchè vi valga in quella categoria, 13 punti oro (perchè raggiunge i requisiti), 16 punti argento (perchè raggiunge i requisiti). 
 Sia ai vari appelli che poi al momento di comporre il vostro voto, scegliete di puntare sul metallo che meglio credete e tenete presente che i rispettivi tetti sul voto finale ottenibile per la parte di Algoritmi sono come da seguente tabella:
 
 |     metallo   | regola/composizione | tetto se inclusi gli homework | tetto se esclusi gli homework |
@@ -70,7 +47,7 @@ Tra i voti delle due prove si fa media aritmetica arrotondata per eccesso e dove
 
 Anche se non gestiti tramite il portafoglio voti, al voto possono inoltre concorrere progetti open source che possano essere di utilità per il corso (da concordare).
 
-Quando ritieni giunto il momento di registrare il tuo voto attuale, mandi una mail a romeo.rizzi@univr.it come da template di mail offerto quì sopra, ad inizio di questo `README.md` file.
+Quando ritieni giunto il momento di registrare il tuo voto attuale, ci mandi una mail come da [questo template della mail e relativa istruzioni](template_mail_voto.txt).
 
 > [!TIP]
 > Il template assicura tu non ometta alcun dato necessario al processamento sereno e rapido della tua richiesta. Può infatti altrimenti capitarvi di dimenticare dei dettagli nella fretta (necessari perchè io possa verificare serenamente ogni riscontro, o anche utili a farvi riconoscere un voto maggiore).
