@@ -6,11 +6,11 @@ Il corso &egrave; un fondamentale del passante e si compone di due moduli: Algor
 Il voto finale &egrave; unico ed espresso in trentesimi:
 viene calcolato come media aritmetica arrotondata per eccesso e dove un 30 e lode vale 33. (In direzione contraria, per generare un 30 e lode come voto finale serve almeno una lode e nessuno dei due voti può essere sotto il 30.)
 
-Non appena hai un voto positivo su entrambi i moduli,
+Non appena hai un voto positivo (ossia >= 18) su entrambi i moduli,
 puoi richiedere la registrazione del voto finale corrente, e chiudere il tuo percorso con noi, ma saremo altrettanto felici di vederti lavorare oltre per ottenere di pi&ugrave;, che sia a titolo personale od in termini di voto.
 
 Quando sarà il momento, la registrazione del voto finale per l'intero insegnamento di Algoritmi e Complessità andrà richiesta inviandoci una mail come da [questo template della mail e relativa istruzioni](./template_mail_richiesta_registrazione_voto.txt).
-L'utilizzo di questo template di mail assicura tu non ometta alcun dato necessario al processamento rapido e sereno della tua richiesta. Ma, in aggiunta ai dati obbligatori, sentitevi liberi di aggiungere quanto ritenete opportuno.
+L'utilizzo di tale template di mail assicura tu non ometta alcun dato necessario al processamento rapido e sereno della tua richiesta. Ma, in aggiunta ai dati obbligatori, sentitevi liberi di aggiungere quanto ritenete opportuno.
 La mail verrà letta e gestita personalmente e fà sempre piacere scriviate anche fuori dalle righe, arrivateci insomma belli freschi come da vostre necessit&agrave; ma non fraschi (non omettete i precisi rifermineti di contesto necessari al processare la vostra richiesta).
 </p>
 
@@ -25,7 +25,7 @@ Ricordo le politiche che stiamo seguendo ormai da diversi anni e che cercheremo 
 
 ### Composizione e gestione del voto per la parte di Algoritmi
 
-Per Algoritmi avete più opzioni su come comporre il voto finale dai riscontri da voi prodotti sui vari appelli e attraverso gli homework. In buona sostanza, i punti homework (max 5) si sommano ai punti raccolti agli appelli. Se vi giocate un singolo appello (composizione voto con regola del max), scegliete quello dove avete ottenuto un voto standard di valore massimo e sommategli i punti accumulati con gli homework. Altrimenti (composizione voto tramite somma a 18), potete sommare i voti dei vari appelli cui avete partecipato ed aggiungere i punti bonus per gli homework, ma avete un tetto a 18 per la parte di Algoritmi.
+Per Algoritmi avete più opzioni su come comporre il voto finale dai riscontri da voi prodotti sui vari appelli e attraverso gli homework. In buona sostanza, i punti homework (max 5) si sommano ai punti raccolti agli appelli. E' la somma tra i punti homework e i punti appello/i che deve raggiungere il 18. Se vi giocate un singolo appello (composizione voto con regola del max), scegliete quello dove avete ottenuto un voto standard di valore massimo. Altrimenti (composizione voto tramite somma a 18), potete sommare i voti dei vari appelli cui avete partecipato ed aggiungere i punti bonus per gli homework: se questa somma complessiva è >= 18 allora avete per questa via maturato un 18 per la parte di Algoritmi. Nota: se optate di avvalervi della regola di composizione voto tramite somma a 18 avete un tetto a 18 per il voto sulla parte di Algoritmi.
 Oltre ai voti standard, un appello genera anche voti argento, oro o platino (su esercizi svolti in modo completo o dove avete quantomento esibito competenze al livello di tale categoria, e via via sempre più scalati al crescere del pregio del metallo).
 Esempio (solo indicativo): un esercizio da 20 punti voto standard, svolto in modo da totalizzare 18 punti voto standard, potrebbe generare i seguenti punti in portafoglioVoti: 18 punti standard, 0 punti platino perchè non raggiungeva i requisiti perchè vi valga in quella categoria, 13 punti oro (perchè raggiunge i requisiti), 16 punti argento (perchè raggiunge i requisiti). 
 Sia ai vari appelli che poi al momento di comporre il vostro voto, scegliete di puntare sul metallo che meglio credete e tenete presente che i rispettivi tetti sul voto finale ottenibile per la parte di Algoritmi sono come da seguente tabella:
@@ -39,7 +39,7 @@ Sia ai vari appelli che poi al momento di comporre il vostro voto, scegliete di 
 | voto standard | del max | 30 | 30 e lode = 33 |
 
 > [!NOTE]
-> I punti homewors si maturano sottomettendo soluzioni agli esercizi proposti durante l'anno (se hai sottomesso in vari anni di corso, scegli il max dei punti raccolti sui vari anni). Un meccanismo premiale a moltiplicatori decrescenti nel tempo vi stimola ad affrontare un esercizio senza lasciar passare troppo tempo da quando proposto.
+> I punti homewors si maturano sottomettendo soluzioni agli esercizi proposti durante l'anno (se hai sottomesso in vari anni di corso, scegli il max dei punti raccolti sui vari anni). Un meccanismo premiale a moltiplicatori decrescenti nel tempo vi stimola ad affrontare un esercizio senza lasciar passare troppo tempo da quando proposto. Il servizio scoreboard offerto dal server che gestisce gli homework vi consente di controllare il vostro attuale punteggio homeworks e la sua composizione come anche di prendere atto della politica premiale impostata e dell'andamento nel tempo dei moltiplicatori.
 
 ### sintesi del voto per l'intero corso
 
