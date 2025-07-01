@@ -30,13 +30,13 @@ Oltre ai voti standard, un appello genera anche voti argento, oro o platino (su 
 Esempio (solo indicativo): un esercizio da 20 punti voto standard, svolto in modo da totalizzare 18 punti voto standard, potrebbe generare i seguenti punti in portafoglioVoti: 18 punti standard, 0 punti platino perchè non raggiungeva i requisiti perchè vi valga in quella categoria, 13 punti oro (perchè raggiunge i requisiti), 16 punti argento (perchè raggiunge i requisiti). 
 Sia ai vari appelli che poi al momento di comporre il vostro voto, scegliete di puntare sul metallo che meglio credete e tenete presente che i rispettivi tetti sul voto finale ottenibile per la parte di Algoritmi sono come da seguente tabella:
 
-|     metallo   | regola/composizione | tetto se inclusi gli homework | tetto se esclusi gli homework |
+|     metallo   | regola/composizione | tetto se includi i punti di homework | tetto se non includi i punti di homework |
 | :---          |  ---   |  ---  |  ---  |
 | voto standard | della somma | 18 | 20  |
 | voto argento  | della somma | 20 | 22  |
 | voto oro      | della somma | 22 | 24  |
 | voto platino  | della somma | 24 | 26  |
-| voto standard | del max | 30 | 30 e lode = 33 |
+| voto standard | del max | 30 | 30 e lode = 33 su singolo appello e almeno 3 punti di homework|
 
 > [!NOTE]
 > I punti homewors si maturano sottomettendo soluzioni agli esercizi proposti durante l'anno (se hai sottomesso in vari anni di corso, scegli il max dei punti raccolti sui vari anni). Un meccanismo premiale a moltiplicatori decrescenti nel tempo vi stimola ad affrontare un esercizio senza lasciar passare troppo tempo da quando proposto. Il servizio scoreboard offerto dal server che gestisce gli homework vi consente di controllare il vostro attuale punteggio homeworks e la sua composizione come anche di prendere atto della politica premiale impostata e dell'andamento nel tempo dei moltiplicatori.
