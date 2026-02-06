@@ -1,0 +1,6 @@
+VOTI DI COMPLESSITA'   appello 03 Febbraio 2026
+
+matricola	voto
+VR512141	28
+VR513301	24
+VR525865	22
