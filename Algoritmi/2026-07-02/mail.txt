@@ -1,9 +1,9 @@
-Subject: esiti appello Algoritmi 2026-02-24
+Subject: esiti appello Algoritmi 2026-07-02
 
-Trovi i voti maturati con l'appello 2026-02-24 nel portafoglioVoti del corso:
+Trovi i voti maturati con l'appello 2026-07-02 nel portafoglioVoti del corso:
 https://github.com/romeorizzi/portafoglioVoti_public
 
-Si vada nel folder Algoritmi e poi nel folder di appello (2026-02-24), dove oltre ai voti trovi ogni altra informazione.
+Si vada nel folder Algoritmi e poi nel folder di appello (2026-07-02), dove oltre ai voti trovi ogni altra informazione.
 Il folder your_submissions.cyphered contiene le vostre sottomissioni durante l'appello (criptate per privacy).
 Per decriptare il file .zip di tua pertinenza usa la tua password personale che ottieni chiamando:
 
