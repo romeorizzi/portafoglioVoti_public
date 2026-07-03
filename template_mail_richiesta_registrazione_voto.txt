@@ -10,15 +10,15 @@ le chiedo di procedere ora alla verbalizzazione del mio voto, che a mè risulta 
 * voto da registrare:  <CAMPO NECESSARIO, composto come media per eccesso dei voti dei due insegnamenti dove 30+lode = 33. Nota: Per ottenere 30+lode servono due 30 ed almeno una lode.>
 
 
-# SEZIONE VOTO COMPLESSITA'
+# SEZIONE VOTO TEORIA (ex COMPLESSITA')
 
-* voto Complessità:    <CAMPO NECESSARIO>
+* voto Teoria/Complessità:    <CAMPO NECESSARIO>
 * conseguito nell'appello yyyy-mm-dd <CAMPO NECESSARIO, ma possono bastare anno e mese) 
 
 
-# SEZIONE VOTO ALGORITMI
+# SEZIONE VOTO LABORATOIO (ex ALGORITMI)
 
-* voto Algoritmi:  <CAMPO NECESSARIO>
+* voto Laboratorio/Algoritmi:  <CAMPO NECESSARIO>
 * comprensivo di un bonus homework di:    <SPECIFICA UN VALORE DA 0 A 5> 
 * anno accademico del bonus homework: <CAMPO NECESSARIO> 
 * conseguito interamente nel singolo appello yyyy-mm-dd <CAMPO NECESSARIO, ma possono bastare anno e mese) 
