@@ -1,0 +1,22 @@
+Subject: esiti appello Algoritmi 2026-09-22
+
+Trovi i voti maturati con l'appello 2026-09-22 nel portafoglioVoti del corso:
+https://github.com/romeorizzi/portafoglioVoti_public
+
+Si vada nel folder Algoritmi e poi nel folder di appello (2026-09-22), dove oltre ai voti trovi ogni altra informazione.
+Il folder your_submissions.cyphered contiene le vostre sottomissioni durante l'appello (criptate per privacy).
+Per decriptare il file .zip di tua pertinenza usa la tua password personale che ottieni chiamando:
+
+> rtal -s wss://ta.di.univr.it/algo connect password
+
+Puoi testare o rivedere le tue soluzioni sottoponendole al server TALight dedicato agli homeworks e appelli proposti quest'anno accademico:
+
+   rtal -s wss://ta.di.univr.it/algo list
+
+Anche se non hai partecipato all'appello, questo ti consente inoltre di recuperare dei punti bonus se non hai già saturato questa voce (di max 5 punti voto).
+Questi problemi sono stati aggiunti solo ora e quindi godono ancora di un buon moltiplicatore da punti problema a punti bonus (come durante il corso, il moltiplicatore scende rapidamente se fai passare tempo).
+
+Vari file con istruzioni spiegano come gestire/registrare i tuoi voti.
+
+
+Romeo e Andrea
